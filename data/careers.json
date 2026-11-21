@@ -1,0 +1,6380 @@
+[
+  {
+    "id": "software_developer",
+    "title": "Software Developer",
+    "sector": "Technology",
+    "description": "Builds and maintains websites, mobile apps, and software tools that help people and businesses solve everyday problems.",
+    "day_in_the_life": "You write and test code, fix bugs, review teammates' work, and break user needs into small, working features.",
+    "riasec": {
+      "R": 45,
+      "I": 90,
+      "A": 55,
+      "S": 35,
+      "E": 40,
+      "C": 75
+    },
+    "required_skills": [
+      {
+        "name": "HTML & CSS",
+        "level": "basic",
+        "resource_ids": [
+          "res_freecodecamp"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "basic",
+        "resource_ids": [
+          "res_freecodecamp"
+        ]
+      },
+      {
+        "name": "Git & Version Control",
+        "level": "basic",
+        "resource_ids": [
+          "res_freecodecamp",
+          "res_linux_journey"
+        ]
+      },
+      {
+        "name": "Programming Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_cs50"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_kaggle_data",
+          "res_cs50"
+        ]
+      },
+      {
+        "name": "Algorithms",
+        "level": "advanced",
+        "resource_ids": [
+          "res_cs50"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Self-Taught Portfolio + Free Certifications",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "6–12 months",
+        "summary": "Build 3 real web projects using freeCodeCamp and CS50, publish code on GitHub, and apply for junior roles or apprenticeships.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "None required (company coding tests)"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "freeCodeCamp (100% free)"
+          ],
+          "in": [
+            "NPTEL fee waiver"
+          ],
+          "us": [
+            "Per Scholas / Year Up free training"
+          ]
+        }
+      },
+      {
+        "title": "Computer Science / IT Diploma or Apprenticeship",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–3 years",
+        "summary": "Polytechnic diploma, community college associate degree, or paid software apprenticeship combining practical labs with work.",
+        "exams": {
+          "global": [
+            "Local polytechnic admission"
+          ],
+          "in": [
+            "State Polytechnic CET / ITI COPA"
+          ],
+          "us": [
+            "Community College Placement"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Local government vocational grants"
+          ],
+          "in": [
+            "National Scholarship Portal (NSP)"
+          ],
+          "us": [
+            "Federal Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor's Degree in Computer Science (B.Tech / B.Sc / BS)",
+        "type": "degree",
+        "cost_tier": "high",
+        "duration": "3–4 years",
+        "summary": "Traditional university route covering deep theory, software engineering, and campus recruitment.",
+        "exams": {
+          "global": [
+            "National university entrance"
+          ],
+          "in": [
+            "JEE Main / CUET / State CET"
+          ],
+          "us": [
+            "SAT / ACT (many test-optional)"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Merit & need-based university aid"
+          ],
+          "in": [
+            "AICTE Pragati / Saksham / NSP"
+          ],
+          "us": [
+            "FAFSA Pell Grant / State tuition aid"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 24000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$24,000 – $58,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 350000,
+        "entry_max": 850000,
+        "period": "year",
+        "formatted": "₹3.5L – ₹8.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 62000,
+        "entry_max": 92000,
+        "period": "year",
+        "formatted": "$62,000 – $92,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Strong global demand across healthcare, retail, banking, and public services."
+    },
+    "fastest_entry_months": 9,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "qa_automation_engineer",
+      "ux_ui_designer",
+      "data_analyst"
+    ],
+    "free_resource_ids": [
+      "res_freecodecamp",
+      "res_cs50",
+      "res_kaggle_data"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Finish HTML, CSS, and first JavaScript exercises on freeCodeCamp.",
+        "Build a simple 1-page personal site or local shop catalog."
+      ],
+      "months_6": [
+        "Build 2 interactive web apps that save data and push them to GitHub.",
+        "Practice explaining your code out loud to a friend or mentor."
+      ],
+      "years_2": [
+        "Complete an internship, paid apprenticeship, or freelance project.",
+        "Learn backend APIs and automated testing for full-stack roles."
+      ]
+    },
+    "starter_project": "Build a mobile-friendly study timetable or local shop price list web page.",
+    "entry_certification": "freeCodeCamp Responsive Web Design & JavaScript Certificate",
+    "source": "U.S. BLS Occupational Outlook Handbook & India National Career Service",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "data_analyst",
+    "title": "Data Analyst",
+    "sector": "Technology",
+    "description": "Turns messy tables and numbers into clear charts and answers that help teams make better decisions.",
+    "day_in_the_life": "You clean spreadsheets or SQL databases, spot trends in sales or health records, and share simple dashboards with managers.",
+    "riasec": {
+      "R": 30,
+      "I": 92,
+      "A": 40,
+      "S": 40,
+      "E": 50,
+      "C": 88
+    },
+    "required_skills": [
+      {
+        "name": "Spreadsheets",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data",
+          "res_khan_stats"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Statistics Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_stats"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "advanced",
+        "resource_ids": [
+          "res_kaggle_data",
+          "res_cs50"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Online Data Portfolio + Financial-Aid Certificate",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "4–8 months",
+        "summary": "Learn spreadsheets, SQL, and dashboards via Kaggle Learn and Coursera financial aid, then publish 3 public data analyses.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "None required"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Coursera Financial Aid"
+          ],
+          "in": [
+            "SWAYAM free data courses"
+          ],
+          "us": [
+            "Coursera / Google Aid via libraries"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor's in Statistics, Math, Commerce, or Computer Science",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–4 years",
+        "summary": "Any analytical undergraduate degree paired with SQL and spreadsheet projects opens entry analyst roles.",
+        "exams": {
+          "global": [
+            "University entrance"
+          ],
+          "in": [
+            "CUET / University admissions"
+          ],
+          "us": [
+            "SAT / ACT or Transfer"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university grants"
+          ],
+          "in": [
+            "NSP / State merit scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 22000,
+        "entry_max": 52000,
+        "period": "year",
+        "formatted": "$22,000 – $52,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 320000,
+        "entry_max": 700000,
+        "period": "year",
+        "formatted": "₹3.2L – ₹7.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 55000,
+        "entry_max": 78000,
+        "period": "year",
+        "formatted": "$55,000 – $78,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Organizations of every size rely on clear reporting and operational data."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "software_developer",
+      "supply_chain_analyst",
+      "health_informatics_coordinator"
+    ],
+    "free_resource_ids": [
+      "res_kaggle_data",
+      "res_khan_stats",
+      "res_google_it_aid"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Master spreadsheet pivot tables and finish Kaggle Intro to SQL.",
+        "Analyze one public dataset (like local rainfall or school attendance)."
+      ],
+      "months_6": [
+        "Build 3 clear one-page reports using SQL + charts.",
+        "Apply for junior data, MIS, or operations analyst internships."
+      ],
+      "years_2": [
+        "Add Python automation and business storytelling to move into senior analyst roles.",
+        "Specialize in health, finance, climate, or product analytics."
+      ]
+    },
+    "starter_project": "Clean a public CSV dataset and write a 5-bullet summary with 3 clear charts.",
+    "entry_certification": "Kaggle SQL & Data Visualization Certificates (Free)",
+    "source": "U.S. BLS OOH & National Career Service India",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "cybersecurity_analyst",
+    "title": "Cybersecurity Analyst",
+    "sector": "Technology",
+    "description": "Protects computers, networks, and personal records from hackers, scams, and accidental data leaks.",
+    "day_in_the_life": "You monitor security alerts, check suspicious logins, help teams update software safely, and document incident fixes.",
+    "riasec": {
+      "R": 55,
+      "I": 92,
+      "A": 25,
+      "S": 35,
+      "E": 40,
+      "C": 85
+    },
+    "required_skills": [
+      {
+        "name": "Networking Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_cisco_netacad"
+        ]
+      },
+      {
+        "name": "Cybersecurity Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_cisco_netacad"
+        ]
+      },
+      {
+        "name": "Linux Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_linux_journey"
+        ]
+      },
+      {
+        "name": "IT Troubleshooting",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "System Security",
+        "level": "advanced",
+        "resource_ids": [
+          "res_cisco_netacad",
+          "res_cs50"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "IT Support → Free Cybersecurity Training + Entry Cert",
+        "type": "online",
+        "cost_tier": "low",
+        "duration": "8–14 months",
+        "summary": "Start with Cisco Skills for All free labs and IT helpdesk work, then earn an entry credential like ISC2 Certified in Cybersecurity.",
+        "exams": {
+          "global": [
+            "ISC2 CC (free exam promos available) / CompTIA Security+"
+          ],
+          "in": [
+            "ISC2 CC / NSDC Cyber Hygiene"
+          ],
+          "us": [
+            "ISC2 CC / CompTIA Security+"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "ISC2 One Million Certified in Cybersecurity"
+          ],
+          "in": [
+            "Cisco Networking Academy India grants"
+          ],
+          "us": [
+            "CyberCorps / Per Scholas free bootcamp"
+          ]
+        }
+      },
+      {
+        "title": "IT / Cybersecurity Diploma or Bachelor's Degree",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "2–4 years",
+        "summary": "Structured labs in networking, operating systems, and ethical defense.",
+        "exams": {
+          "global": [
+            "University / college admission"
+          ],
+          "in": [
+            "CUET / State CET"
+          ],
+          "us": [
+            "Community College or University admission"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "STEM need-based grants"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant / CyberCorps"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 28000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$28,000 – $64,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 380000,
+        "entry_max": 800000,
+        "period": "year",
+        "formatted": "₹3.8L – ₹8.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 64000,
+        "entry_max": 90000,
+        "period": "year",
+        "formatted": "$64,000 – $90,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Banks, hospitals, and governments urgently need trained defenders."
+    },
+    "fastest_entry_months": 10,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "it_support_specialist",
+      "cloud_devops_technician",
+      "software_developer"
+    ],
+    "free_resource_ids": [
+      "res_cisco_netacad",
+      "res_linux_journey",
+      "res_google_it_aid"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete Cisco Introduction to Cybersecurity and Networking Basics.",
+        "Set up a safe practice Linux virtual machine on a home or lab PC."
+      ],
+      "months_6": [
+        "Build a home-network security checklist and pass ISC2 CC or equivalent entry badge.",
+        "Apply for IT support or junior SOC analyst apprenticeships."
+      ],
+      "years_2": [
+        "Gain 1 year of hands-on network/system defense experience.",
+        "Specialize in cloud security, incident response, or compliance."
+      ]
+    },
+    "starter_project": "Write a plain-language digital safety checklist for a local school or small business.",
+    "entry_certification": "Cisco Junior Cybersecurity Analyst / ISC2 CC",
+    "source": "U.S. BLS OOH & Cisco Skills for All",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "it_support_specialist",
+    "title": "IT Support Specialist",
+    "sector": "Technology",
+    "description": "Helps students, employees, and organizations keep laptops, Wi-Fi, printers, and software running smoothly.",
+    "day_in_the_life": "You troubleshoot device errors, set up new user accounts, explain fixes patiently, and log solved tickets.",
+    "riasec": {
+      "R": 72,
+      "I": 70,
+      "A": 20,
+      "S": 72,
+      "E": 35,
+      "C": 75
+    },
+    "required_skills": [
+      {
+        "name": "IT Troubleshooting",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "Customer Support",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_it_aid",
+          "res_linux_journey"
+        ]
+      },
+      {
+        "name": "Networking Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_cisco_netacad"
+        ]
+      },
+      {
+        "name": "Linux Basics",
+        "level": "advanced",
+        "resource_ids": [
+          "res_linux_journey"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free/Financial-Aid IT Support Certificate + Helpdesk Entry",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "One of the fastest, lowest-cost bridges into technology with no college degree required.",
+        "exams": {
+          "global": [
+            "Optional CompTIA A+"
+          ],
+          "in": [
+            "NSDC IT Helpdesk Attendant"
+          ],
+          "us": [
+            "Optional CompTIA A+"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Coursera Financial Aid"
+          ],
+          "in": [
+            "PMKVY / Skill India Digital (free)"
+          ],
+          "us": [
+            "Public library Coursera access"
+          ]
+        }
+      },
+      {
+        "title": "Vocational Hardware & Networking Diploma",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–12 months",
+        "summary": "Hands-on PC assembly, OS setup, and local network repair training.",
+        "exams": {
+          "global": [
+            "Trade institute assessment"
+          ],
+          "in": [
+            "ITI ICTSM / Hardware courses"
+          ],
+          "us": [
+            "Community college IT certificate"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Local youth training stipends"
+          ],
+          "in": [
+            "State ITI fee waivers"
+          ],
+          "us": [
+            "WIOA workforce grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 38000,
+        "period": "year",
+        "formatted": "$16,000 – $38,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 220000,
+        "entry_max": 450000,
+        "period": "year",
+        "formatted": "₹2.2L – ₹4.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 60000,
+        "period": "year",
+        "formatted": "$42,000 – $60,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Strong stepping stone into cybersecurity, cloud, or systems administration."
+    },
+    "fastest_entry_months": 4,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "cybersecurity_analyst",
+      "cloud_devops_technician",
+      "qa_automation_engineer"
+    ],
+    "free_resource_ids": [
+      "res_google_it_aid",
+      "res_cisco_netacad",
+      "res_skill_india_iti"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Audit Google IT Support fundamentals and practice troubleshooting common Wi-Fi and OS issues.",
+        "Write 5 short 'how-to-fix' guides for everyday computer problems."
+      ],
+      "months_6": [
+        "Complete an entry IT certificate and volunteer to help a school lab or community center.",
+        "Apply for junior IT helpdesk or desktop support roles."
+      ],
+      "years_2": [
+        "Learn Linux and cloud basics on the job to advance into System Admin or Cybersecurity.",
+        "Earn a networking or security certification funded by your employer."
+      ]
+    },
+    "starter_project": "Create a 1-page troubleshooting guide for slow laptops and Wi-Fi dropouts.",
+    "entry_certification": "Google IT Support Certificate (Financial Aid) / Skill India IT Helpdesk",
+    "source": "U.S. BLS OOH & Skill India Digital",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "ux_ui_designer",
+    "title": "UX / UI Designer",
+    "sector": "Technology",
+    "description": "Designs websites and mobile apps so they are clear, accessible, and easy for everyday people to use.",
+    "day_in_the_life": "You talk to users to learn what frustrates them, sketch screen flows in Figma, test prototypes, and hand clean layouts to developers.",
+    "riasec": {
+      "R": 30,
+      "I": 68,
+      "A": 92,
+      "S": 70,
+      "E": 50,
+      "C": 55
+    },
+    "required_skills": [
+      {
+        "name": "Visual Hierarchy",
+        "level": "basic",
+        "resource_ids": [
+          "res_figma_learn",
+          "res_canva_design"
+        ]
+      },
+      {
+        "name": "Wireframing",
+        "level": "basic",
+        "resource_ids": [
+          "res_figma_learn",
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "UX Research",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "Prototyping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_figma_learn"
+        ]
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "advanced",
+        "resource_ids": [
+          "res_freecodecamp"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Figma Portfolio + UX Financial-Aid Certificate",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "5–9 months",
+        "summary": "Employers look at 2–3 well-explained redesign case studies far more than expensive design degrees.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "None required"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Figma Free Starter & Education Plan"
+          ],
+          "in": [
+            "Coursera Financial Aid"
+          ],
+          "us": [
+            "Coursera Financial Aid"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor of Design (B.Des) or Visual Communication Degree",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–4 years",
+        "summary": "Studio critiques, human-centered design research, and peer collaboration.",
+        "exams": {
+          "global": [
+            "Portfolio review"
+          ],
+          "in": [
+            "UCEED / NID DAT / CUET"
+          ],
+          "us": [
+            "Portfolio review"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public design institute subsidies"
+          ],
+          "in": [
+            "IIT/NID merit-cum-means aid"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 22000,
+        "entry_max": 54000,
+        "period": "year",
+        "formatted": "$22,000 – $54,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 350000,
+        "entry_max": 750000,
+        "period": "year",
+        "formatted": "₹3.5L – ₹7.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 58000,
+        "entry_max": 85000,
+        "period": "year",
+        "formatted": "$58,000 – $85,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Growing need for accessible mobile apps across banking, education, and government services."
+    },
+    "fastest_entry_months": 7,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "graphic_brand_designer",
+      "software_developer",
+      "technical_writer"
+    ],
+    "free_resource_ids": [
+      "res_figma_learn",
+      "res_google_it_aid",
+      "res_canva_design"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Learn Figma basics and redraw 3 screens of an app you use daily.",
+        "Interview 3 friends about what confuses them on a local website."
+      ],
+      "months_6": [
+        "Publish 2 end-to-end case studies showing problem, sketches, user feedback, and final prototype.",
+        "Apply for junior UX/UI internships or design apprenticeships."
+      ],
+      "years_2": [
+        "Learn basic HTML/CSS and accessibility (WCAG) to partner smoothly with engineers.",
+        "Build measurable results into your portfolio."
+      ]
+    },
+    "starter_project": "Redesign a local bus timetable or school notice board into a clean 3-screen mobile prototype in Figma.",
+    "entry_certification": "Google UX Design Certificate (Financial Aid)",
+    "source": "U.S. BLS OOH & Interaction Design Foundation",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "cloud_devops_technician",
+    "title": "Cloud & DevOps Technician",
+    "sector": "Technology",
+    "description": "Keeps websites and online apps fast, reliable, and backed up using cloud servers and automation.",
+    "day_in_the_life": "You run Linux commands, automate software deployments, check server uptime, and help teams fix outages calmly.",
+    "riasec": {
+      "R": 65,
+      "I": 88,
+      "A": 25,
+      "S": 35,
+      "E": 40,
+      "C": 82
+    },
+    "required_skills": [
+      {
+        "name": "Linux Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_linux_journey"
+        ]
+      },
+      {
+        "name": "Git & Version Control",
+        "level": "basic",
+        "resource_ids": [
+          "res_linux_journey",
+          "res_freecodecamp"
+        ]
+      },
+      {
+        "name": "Networking Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_cisco_netacad"
+        ]
+      },
+      {
+        "name": "Cloud Fundamentals",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_linux_journey"
+        ]
+      },
+      {
+        "name": "CI/CD Basics",
+        "level": "advanced",
+        "resource_ids": [
+          "res_linux_journey"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "IT Support / Linux Foundations + Cloud Free Tier Practice",
+        "type": "online",
+        "cost_tier": "low",
+        "duration": "9–15 months",
+        "summary": "Learn Linux and Git free via Linux Foundation courses, practice on free cloud tiers, and target junior cloud support roles.",
+        "exams": {
+          "global": [
+            "AWS Cloud Practitioner / Google Cloud Digital Leader"
+          ],
+          "in": [
+            "Cloud entry exam / NPTEL Cloud Computing"
+          ],
+          "us": [
+            "Cloud Practitioner / CompTIA Linux+"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "AWS re/Start free training cohorts"
+          ],
+          "in": [
+            "NPTEL / FutureSkills Prime subsidies"
+          ],
+          "us": [
+            "AWS re/Start / Per Scholas"
+          ]
+        }
+      },
+      {
+        "title": "Computer Systems Diploma or Engineering Degree",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "2–4 years",
+        "summary": "Deep grounding in operating systems, computer networks, and distributed infrastructure.",
+        "exams": {
+          "global": [
+            "Polytechnic or university entrance"
+          ],
+          "in": [
+            "JEE / State Polytechnic CET"
+          ],
+          "us": [
+            "Community college or university"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Government STEM aid"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 28000,
+        "entry_max": 66000,
+        "period": "year",
+        "formatted": "$28,000 – $66,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 400000,
+        "entry_max": 900000,
+        "period": "year",
+        "formatted": "₹4.0L – ₹9.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 68000,
+        "entry_max": 96000,
+        "period": "year",
+        "formatted": "$68,000 – $96,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Cloud hosting powers most modern banking, school, and commerce services."
+    },
+    "fastest_entry_months": 10,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "it_support_specialist",
+      "cybersecurity_analyst",
+      "software_developer"
+    ],
+    "free_resource_ids": [
+      "res_linux_journey",
+      "res_cisco_netacad",
+      "res_cs50"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Learn basic Linux terminal commands and Git commits.",
+        "Host a static website using a free cloud hosting tier."
+      ],
+      "months_6": [
+        "Build a small automated build-and-deploy pipeline using GitHub Actions.",
+        "Apply for cloud support associate or AWS re/Start cohorts."
+      ],
+      "years_2": [
+        "Learn containers and monitoring in a junior operations role.",
+        "Advance toward DevOps or Site Reliability Engineer."
+      ]
+    },
+    "starter_project": "Deploy a free static website with automatic updates whenever you push a change to GitHub.",
+    "entry_certification": "Linux Foundation Intro to Linux / AWS Cloud Practitioner",
+    "source": "U.S. BLS OOH & Linux Foundation",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "qa_automation_engineer",
+    "title": "QA & Test Automation Engineer",
+    "sector": "Technology",
+    "description": "Tests websites and apps carefully before launch to catch bugs, broken buttons, and accessibility issues.",
+    "day_in_the_life": "You test new features like a real user, write clear bug reports, and write short automated scripts so bugs never come back.",
+    "riasec": {
+      "R": 45,
+      "I": 80,
+      "A": 30,
+      "S": 45,
+      "E": 35,
+      "C": 92
+    },
+    "required_skills": [
+      {
+        "name": "Software Testing",
+        "level": "basic",
+        "resource_ids": [
+          "res_test_automation_u"
+        ]
+      },
+      {
+        "name": "Bug Reporting",
+        "level": "basic",
+        "resource_ids": [
+          "res_test_automation_u"
+        ]
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "basic",
+        "resource_ids": [
+          "res_freecodecamp"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_freecodecamp"
+        ]
+      },
+      {
+        "name": "Test Automation",
+        "level": "advanced",
+        "resource_ids": [
+          "res_test_automation_u"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free QA Academy + Manual-to-Automation Path",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "4–8 months",
+        "summary": "Start with manual testing and clear bug documentation, then add free Playwright automation courses from Test Automation University.",
+        "exams": {
+          "global": [
+            "Optional ISTQB Foundation"
+          ],
+          "in": [
+            "Optional ISTQB Foundation"
+          ],
+          "us": [
+            "Optional ISTQB Foundation"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Test Automation University (100% free)"
+          ],
+          "in": [
+            "freeCodeCamp & TAU (free)"
+          ],
+          "us": [
+            "freeCodeCamp & TAU (free)"
+          ]
+        }
+      },
+      {
+        "title": "IT Diploma or Any Undergraduate Degree + QA Skills",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–3 years",
+        "summary": "Many QA testers enter from non-CS backgrounds by pairing detail-oriented thinking with basic scripting.",
+        "exams": {
+          "global": [
+            "None specific"
+          ],
+          "in": [
+            "Polytechnic / College admission"
+          ],
+          "us": [
+            "Community college admission"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Local college aid"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 20000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$20,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 280000,
+        "entry_max": 600000,
+        "period": "year",
+        "formatted": "₹2.8L – ₹6.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 52000,
+        "entry_max": 76000,
+        "period": "year",
+        "formatted": "$52,000 – $76,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Every software team needs reliable testing; great entry door into tech."
+    },
+    "fastest_entry_months": 5,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "software_developer",
+      "it_support_specialist",
+      "data_analyst"
+    ],
+    "free_resource_ids": [
+      "res_test_automation_u",
+      "res_freecodecamp"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Take 2 beginner courses on Test Automation University.",
+        "Write a clear 10-case test plan for a public website's signup form."
+      ],
+      "months_6": [
+        "Learn basic JavaScript and automate 5 end-to-end browser checks.",
+        "Apply for junior QA tester or software QA internships."
+      ],
+      "years_2": [
+        "Expand into API testing and mobile testing.",
+        "Choose between Senior SDET or pivoting into Software Development."
+      ]
+    },
+    "starter_project": "Test a free open-source website on mobile and desktop and write 5 crisp, reproducible bug reports.",
+    "entry_certification": "Test Automation University Certificates (Free)",
+    "source": "U.S. BLS OOH & Test Automation University",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "registered_nurse",
+    "title": "Registered Nurse",
+    "sector": "Healthcare",
+    "description": "Cares directly for patients in hospitals, clinics, and communities by monitoring health, giving medicines, and guiding families.",
+    "day_in_the_life": "You check vital signs, coordinate with doctors, comfort anxious patients, update medical charts, and teach families home care.",
+    "riasec": {
+      "R": 58,
+      "I": 72,
+      "A": 25,
+      "S": 96,
+      "E": 40,
+      "C": 72
+    },
+    "required_skills": [
+      {
+        "name": "Patient Care",
+        "level": "basic",
+        "resource_ids": [
+          "res_khan_health",
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Human Anatomy",
+        "level": "basic",
+        "resource_ids": [
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Infection Control",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Medical Terminology",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Pharmacology Basics",
+        "level": "advanced",
+        "resource_ids": [
+          "res_khan_health",
+          "res_swayam_health_tech"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Government Nursing Diploma (GNM / ADN Associate Degree)",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "2–3 years",
+        "summary": "Public nursing schools and community colleges provide accredited clinical training at a fraction of private college cost.",
+        "exams": {
+          "global": [
+            "National nursing licensing exam"
+          ],
+          "in": [
+            "State GNM Nursing Entrance + State Nursing Council Registration"
+          ],
+          "us": [
+            "TEAS Entrance + NCLEX-RN Licensing Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Government health workforce bursaries"
+          ],
+          "in": [
+            "State Nursing Scholarships / NSP"
+          ],
+          "us": [
+            "HRSA Nurse Corps Scholarship / Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor of Science in Nursing (B.Sc Nursing / BSN)",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "4 years",
+        "summary": "Opens hospital leadership, public health, and international nursing pathways.",
+        "exams": {
+          "global": [
+            "Nursing license exam"
+          ],
+          "in": [
+            "NEET-UG / State B.Sc Nursing CET"
+          ],
+          "us": [
+            "NCLEX-RN"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Hospital-sponsored tuition programs"
+          ],
+          "in": [
+            "AIIMS / Govt. College low-fee seats"
+          ],
+          "us": [
+            "Pell Grant / Hospital tuition reimbursement"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$18,000 – $58,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 550000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 65000,
+        "entry_max": 86000,
+        "period": "year",
+        "formatted": "$65,000 – $86,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Severe global nursing shortages create reliable employment in almost every region."
+    },
+    "fastest_entry_months": 24,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "community_health_worker",
+      "medical_lab_technician",
+      "physiotherapy_assistant"
+    ],
+    "free_resource_ids": [
+      "res_khan_health",
+      "res_openwho",
+      "res_swayam_health_tech"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Start Khan Academy Human Anatomy and complete one OpenWHO Infection Control course.",
+        "Check admission dates and fees for government nursing schools near you."
+      ],
+      "months_6": [
+        "Prepare for biology/science entrance requirements or start as a paid nursing aide to gain clinical exposure.",
+        "Apply for government scholarships and public college seats."
+      ],
+      "years_2": [
+        "Complete clinical rotations in an accredited GNM/ADN or BSN program.",
+        "Pass the regional licensing exam to practice as a Registered Nurse."
+      ]
+    },
+    "starter_project": "Earn a free OpenWHO certificate on Hand Hygiene & Infection Prevention and summarize the 5 key rules.",
+    "entry_certification": "Accredited Nursing Registration (State Nursing Council / NCLEX-RN)",
+    "source": "WHO Health Workforce Report & U.S. BLS OOH",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "medical_lab_technician",
+    "title": "Medical Laboratory Technician",
+    "sector": "Healthcare",
+    "description": "Tests blood, tissue, and fluid samples in a lab so doctors can diagnose illnesses accurately.",
+    "day_in_the_life": "You prepare lab samples, run diagnostic machines, double-check safety rules, and enter accurate test results for clinics.",
+    "riasec": {
+      "R": 76,
+      "I": 86,
+      "A": 18,
+      "S": 45,
+      "E": 20,
+      "C": 88
+    },
+    "required_skills": [
+      {
+        "name": "Lab Procedures",
+        "level": "basic",
+        "resource_ids": [
+          "res_swayam_health_tech",
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Infection Control",
+        "level": "basic",
+        "resource_ids": [
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Human Anatomy",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_health_informatics"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "advanced",
+        "resource_ids": [
+          "res_openwho"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Diploma in Medical Lab Technology (DMLT / MLT Associate)",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1.5–2 years",
+        "summary": "Practical, lab-focused diploma widely accepted by hospitals and diagnostic chains.",
+        "exams": {
+          "global": [
+            "Regional lab tech certification"
+          ],
+          "in": [
+            "State Paramedical Board Entrance (after Class 12 Science)"
+          ],
+          "us": [
+            "ASCP MLT Certification"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public health vocational aid"
+          ],
+          "in": [
+            "NSP & State Paramedical Fee Subsidies"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "B.Sc in Medical Laboratory Science",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–4 years",
+        "summary": "Qualifies you for senior laboratory scientist and lab supervisor positions.",
+        "exams": {
+          "global": [
+            "University science admission"
+          ],
+          "in": [
+            "CUET / State Paramedical CET"
+          ],
+          "us": [
+            "ASCP MLS"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "University need-based aid"
+          ],
+          "in": [
+            "Govt. medical college seats"
+          ],
+          "us": [
+            "Pell Grant / Hospital sponsorships"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 45000,
+        "period": "year",
+        "formatted": "$16,000 – $45,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 200000,
+        "entry_max": 420000,
+        "period": "year",
+        "formatted": "₹2.0L – ₹4.2L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 46000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$46,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Diagnostic testing continues to expand across both urban hospitals and rural health centers."
+    },
+    "fastest_entry_months": 18,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "pharmacy_technician",
+      "food_safety_inspector",
+      "registered_nurse"
+    ],
+    "free_resource_ids": [
+      "res_khan_health",
+      "res_openwho",
+      "res_swayam_health_tech"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Study cell biology and blood basics on Khan Academy and take an OpenWHO biosafety module.",
+        "List accredited government DMLT/MLT programs in your district."
+      ],
+      "months_6": [
+        "Enroll in a recognized paramedical diploma or community college lab program.",
+        "Practice meticulous sample labeling and microscope logging."
+      ],
+      "years_2": [
+        "Complete a hospital diagnostic lab internship.",
+        "Apply for entry lab technician jobs at hospitals or pathology centers."
+      ]
+    },
+    "starter_project": "Complete an OpenWHO laboratory biosafety module and diagram safe specimen handling steps.",
+    "entry_certification": "Accredited DMLT Diploma / ASCP MLT",
+    "source": "U.S. BLS OOH & India Allied Health Councils",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "physiotherapy_assistant",
+    "title": "Physiotherapy Assistant",
+    "sector": "Healthcare",
+    "description": "Helps injured, elderly, or recovering patients regain strength and movement through guided exercises and care.",
+    "day_in_the_life": "You set up rehab equipment, guide patients safely through stretching and mobility drills, and report progress to the physical therapist.",
+    "riasec": {
+      "R": 74,
+      "I": 58,
+      "A": 25,
+      "S": 94,
+      "E": 40,
+      "C": 55
+    },
+    "required_skills": [
+      {
+        "name": "Human Anatomy",
+        "level": "basic",
+        "resource_ids": [
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Patient Care",
+        "level": "basic",
+        "resource_ids": [
+          "res_khan_health",
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Active Listening",
+        "level": "basic",
+        "resource_ids": [
+          "res_social_work_open"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Medical Terminology",
+        "level": "advanced",
+        "resource_ids": [
+          "res_khan_health"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Diploma / Associate Degree in Physiotherapy Assisting",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–2 years",
+        "summary": "Shorter, practical hands-on pathway into rehabilitation clinics without a 5-year medical degree.",
+        "exams": {
+          "global": [
+            "Accredited rehab assistant diploma"
+          ],
+          "in": [
+            "Skill India / State Paramedical Physiotherapy Assistant Diploma"
+          ],
+          "us": [
+            "NPTE-PTA Licensing Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Community college grants"
+          ],
+          "in": [
+            "Skill India / NSP"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor of Physiotherapy (BPT)",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "4–4.5 years",
+        "summary": "Enables independent physiotherapy practice and clinic ownership.",
+        "exams": {
+          "global": [
+            "Health sciences admission"
+          ],
+          "in": [
+            "State Allied Health CET / NEET (varies)"
+          ],
+          "us": [
+            "BS + DPT path"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university subsidies"
+          ],
+          "in": [
+            "State merit aid"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$16,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 180000,
+        "entry_max": 380000,
+        "period": "year",
+        "formatted": "₹1.8L – ₹3.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 52000,
+        "entry_max": 68000,
+        "period": "year",
+        "formatted": "$52,000 – $68,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Aging populations and sports/accident recovery drive strong clinic hiring."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "registered_nurse",
+      "community_health_worker",
+      "social_worker"
+    ],
+    "free_resource_ids": [
+      "res_khan_health",
+      "res_openwho",
+      "res_skill_india_iti"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Learn basic musculoskeletal anatomy on Khan Academy.",
+        "Ask a local clinic if you can observe for 2 hours to see daily rehab work."
+      ],
+      "months_6": [
+        "Enroll in a recognized Physiotherapy Assistant diploma or PTA associate program.",
+        "Practice patient safety and clear exercise coaching."
+      ],
+      "years_2": [
+        "Complete supervised clinic hours and start working in a hospital or rehab center.",
+        "Decide whether to bridge into a full BPT/PT credential later."
+      ]
+    },
+    "starter_project": "Create an illustrated, plain-language guide to 5 safe posture and stretching habits for students.",
+    "entry_certification": "Paramedical Physiotherapy Assistant Diploma / Licensed PTA",
+    "source": "U.S. BLS OOH & Skill India Healthcare Sector Council",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "pharmacy_technician",
+    "title": "Pharmacy Technician",
+    "sector": "Healthcare",
+    "description": "Supports licensed pharmacists by preparing prescriptions accurately, managing medicine inventory, and helping customers.",
+    "day_in_the_life": "You verify prescription labels, count and package medicines carefully, track stock expiry dates, and answer routine questions.",
+    "riasec": {
+      "R": 52,
+      "I": 64,
+      "A": 15,
+      "S": 65,
+      "E": 35,
+      "C": 94
+    },
+    "required_skills": [
+      {
+        "name": "Pharmacology Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_khan_health",
+          "res_swayam_health_tech"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "basic",
+        "resource_ids": [
+          "res_health_informatics"
+        ]
+      },
+      {
+        "name": "Medical Terminology",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Customer Support",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "Inventory Planning",
+        "level": "advanced",
+        "resource_ids": [
+          "res_supply_chain_mit"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Pharmacy Technician Apprenticeship or Diploma (D.Pharm)",
+        "type": "apprenticeship",
+        "cost_tier": "low",
+        "duration": "6–24 months",
+        "summary": "In many regions, retail and hospital pharmacies offer paid on-the-job training; India requires a 2-year PCI-approved D.Pharm for registered dispensing.",
+        "exams": {
+          "global": [
+            "Regional pharmacy board check"
+          ],
+          "in": [
+            "State D.Pharm Entrance + PCI Registration"
+          ],
+          "us": [
+            "PTCB (PTCE) or ExCPT Certification"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Employer-paid certification"
+          ],
+          "in": [
+            "Government D.Pharm college seats / NSP"
+          ],
+          "us": [
+            "Retail pharmacy paid training (CVS/Walgreens)"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 14000,
+        "entry_max": 38000,
+        "period": "year",
+        "formatted": "$14,000 – $38,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 180000,
+        "entry_max": 360000,
+        "period": "year",
+        "formatted": "₹1.8L – ₹3.6L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 36000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$36,000 – $48,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Essential local healthcare jobs available in small towns and large cities alike."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "medical_lab_technician",
+      "health_informatics_coordinator",
+      "registered_nurse"
+    ],
+    "free_resource_ids": [
+      "res_khan_health",
+      "res_swayam_health_tech",
+      "res_health_informatics"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Review basic medical terminology and safe dosage math on Khan Academy.",
+        "Verify your region's licensing rule (paid trainee vs D.Pharm diploma)."
+      ],
+      "months_6": [
+        "Join a paid pharmacy trainee program or enroll in an approved D.Pharm course.",
+        "Practice accuracy checks and inventory expiry tracking."
+      ],
+      "years_2": [
+        "Earn national registration/certification and move into hospital pharmacy roles.",
+        "Consider advancing to full Pharmacist (B.Pharm/PharmD) if desired."
+      ]
+    },
+    "starter_project": "Build a practice checklist showing how to prevent label mix-ups and track medicine expiry dates.",
+    "entry_certification": "PTCB CPhT (US) / PCI Registered D.Pharm (India)",
+    "source": "U.S. BLS OOH & Pharmacy Council Guidelines",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "community_health_worker",
+    "title": "Community Health Worker",
+    "sector": "Healthcare",
+    "description": "Connects families in underserved neighborhoods and villages to preventive healthcare, vaccines, nutrition, and clinics.",
+    "day_in_the_life": "You visit families or community centers, share clear health advice in local languages, help people book clinic visits, and log basic follow-ups.",
+    "riasec": {
+      "R": 42,
+      "I": 48,
+      "A": 30,
+      "S": 98,
+      "E": 62,
+      "C": 55
+    },
+    "required_skills": [
+      {
+        "name": "Community Outreach",
+        "level": "basic",
+        "resource_ids": [
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Health Education",
+        "level": "basic",
+        "resource_ids": [
+          "res_openwho",
+          "res_khan_health"
+        ]
+      },
+      {
+        "name": "Active Listening",
+        "level": "basic",
+        "resource_ids": [
+          "res_social_work_open"
+        ]
+      },
+      {
+        "name": "Infection Control",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Case Documentation",
+        "level": "advanced",
+        "resource_ids": [
+          "res_social_work_open"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Public Health Certificates + NGO / Govt. Training",
+        "type": "vocational",
+        "cost_tier": "free",
+        "duration": "2–6 months",
+        "summary": "Public health agencies and NGOs hire empathetic communicators and provide free job training.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "State NHM / ANM / ASHA or Health Worker training"
+          ],
+          "us": [
+            "State CHW certification (varies)"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "OpenWHO (100% free)"
+          ],
+          "in": [
+            "Government-funded NHM training"
+          ],
+          "us": [
+            "Community college CHW workforce grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 12000,
+        "entry_max": 36000,
+        "period": "year",
+        "formatted": "$12,000 – $36,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 160000,
+        "entry_max": 340000,
+        "period": "year",
+        "formatted": "₹1.6L – ₹3.4L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 38000,
+        "entry_max": 52000,
+        "period": "year",
+        "formatted": "$38,000 – $52,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Governments and health NGOs increasingly rely on trusted local health navigators."
+    },
+    "fastest_entry_months": 3,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "social_worker",
+      "registered_nurse",
+      "physiotherapy_assistant"
+    ],
+    "free_resource_ids": [
+      "res_openwho",
+      "res_social_work_open",
+      "res_khan_health"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete 2 free OpenWHO courses on primary care and maternal/child health.",
+        "Volunteer at a local health camp or blood drive."
+      ],
+      "months_6": [
+        "Earn a regional Community Health Worker certificate or NGO fellowship.",
+        "Build a directory of free local clinics, helplines, and government health schemes."
+      ],
+      "years_2": [
+        "Move into program coordinator roles at health NGOs or public hospitals.",
+        "Optionally bridge into Public Health or Nursing degrees."
+      ]
+    },
+    "starter_project": "Create a 1-page multilingual handout listing free preventive health services in your neighborhood.",
+    "entry_certification": "OpenWHO Public Health Certificates & Regional CHW Training",
+    "source": "WHO & U.S. BLS OOH",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "health_informatics_coordinator",
+    "title": "Health Informatics Coordinator",
+    "sector": "Healthcare",
+    "description": "Manages digital patient records, clinic schedules, and health data privacy so hospitals run smoothly and safely.",
+    "day_in_the_life": "You organize electronic health records, check coding and privacy compliance, build clinic wait-time reports, and train staff on software.",
+    "riasec": {
+      "R": 30,
+      "I": 78,
+      "A": 22,
+      "S": 55,
+      "E": 45,
+      "C": 95
+    },
+    "required_skills": [
+      {
+        "name": "Record Keeping",
+        "level": "basic",
+        "resource_ids": [
+          "res_health_informatics"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Medical Terminology",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_health",
+          "res_health_informatics"
+        ]
+      },
+      {
+        "name": "Data Privacy & Ethics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_health_informatics"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "advanced",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Health Information Certificate + Clinic Admin Entry",
+        "type": "online",
+        "cost_tier": "low",
+        "duration": "6–12 months",
+        "summary": "Combines basic healthcare knowledge with spreadsheet and data skills—no clinical bloodwork required.",
+        "exams": {
+          "global": [
+            "None required for entry"
+          ],
+          "in": [
+            "NSDC Medical Records Assistant / Digital Health courses"
+          ],
+          "us": [
+            "Optional RHIT or CPC"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Coursera Financial Aid"
+          ],
+          "in": [
+            "SWAYAM / Skill India"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "Associate or Bachelor's in Health Information Management",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "2–4 years",
+        "summary": "Prepares you for hospital IT leadership and health analytics roles.",
+        "exams": {
+          "global": [
+            "College admission"
+          ],
+          "in": [
+            "CUET / University admission"
+          ],
+          "us": [
+            "RHIT / RHIA"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "University financial aid"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 20000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$20,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 260000,
+        "entry_max": 520000,
+        "period": "year",
+        "formatted": "₹2.6L – ₹5.2L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 46000,
+        "entry_max": 66000,
+        "period": "year",
+        "formatted": "$46,000 – $66,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Digital health records (like ABDM in India and EHR systems globally) are expanding rapidly."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "data_analyst",
+      "pharmacy_technician",
+      "medical_lab_technician"
+    ],
+    "free_resource_ids": [
+      "res_health_informatics",
+      "res_kaggle_data",
+      "res_khan_health"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Audit an introductory Health Information Systems course and review spreadsheet formulas.",
+        "Learn the basics of patient data privacy and consent."
+      ],
+      "months_6": [
+        "Build a mock clinic appointment & wait-time tracker spreadsheet with anonymized sample data.",
+        "Apply for clinic front-desk, medical records, or health data clerk roles."
+      ],
+      "years_2": [
+        "Add SQL reporting to move into Health Data Analyst or EHR Coordinator roles.",
+        "Earn a recognized health information credential."
+      ]
+    },
+    "starter_project": "Build an anonymized clinic appointment tracker in a spreadsheet that flags missed follow-ups.",
+    "entry_certification": "Health Information Systems Certificate / Medical Records Assistant",
+    "source": "U.S. BLS OOH & AHIMA Career Map",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "licensed_electrician",
+    "title": "Licensed Electrician",
+    "sector": "Skilled Trades",
+    "description": "Installs, repairs, and inspects electrical wiring, panels, and backup power systems in homes, schools, and factories.",
+    "day_in_the_life": "You read wiring diagrams, test circuits with meters, run cables safely, follow electrical codes, and solve power faults.",
+    "riasec": {
+      "R": 96,
+      "I": 68,
+      "A": 20,
+      "S": 40,
+      "E": 48,
+      "C": 68
+    },
+    "required_skills": [
+      {
+        "name": "Electrical Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Circuit Reading",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Applied Math",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_stats"
+        ]
+      },
+      {
+        "name": "Blueprint Reading",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "advanced",
+        "resource_ids": [
+          "res_apprenticeship_gov"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Paid Apprenticeship or Government ITI Electrician Trade",
+        "type": "apprenticeship",
+        "cost_tier": "free",
+        "duration": "1–4 years (earn while learning)",
+        "summary": "One of the highest-return zero-debt career paths: you earn a stipend or wage while training under a licensed master electrician.",
+        "exams": {
+          "global": [
+            "National electrical trade license"
+          ],
+          "in": [
+            "Govt. ITI Electrician (NCVT) + Wireman License"
+          ],
+          "us": [
+            "Registered Apprenticeship + State Journeyman Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Paid apprenticeship stipends"
+          ],
+          "in": [
+            "NAPS Apprenticeship Stipend & Govt. ITI free seats"
+          ],
+          "us": [
+            "IBEW / ABC Paid Apprenticeships"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 52000,
+        "period": "year",
+        "formatted": "$18,000 – $52,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 200000,
+        "entry_max": 450000,
+        "period": "year",
+        "formatted": "₹2.0L – ₹4.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 46000,
+        "entry_max": 68000,
+        "period": "year",
+        "formatted": "$46,000 – $68,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "EV chargers, solar roofs, and building upgrades keep skilled electricians in constant demand."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "solar_pv_installer",
+      "hvac_technician",
+      "automotive_ev_technician"
+    ],
+    "free_resource_ids": [
+      "res_skill_india_iti",
+      "res_apprenticeship_gov",
+      "res_alison_trades"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete a free electrical safety and Ohm's law intro module.",
+        "Search Apprenticeship.gov or Skill India Digital for local electrical apprenticeships."
+      ],
+      "months_6": [
+        "Enroll in a government ITI Electrician program or start as a paid electrical helper.",
+        "Practice reading residential wiring diagrams safely under supervision."
+      ],
+      "years_2": [
+        "Log supervised hours toward your Journeyman or State Wireman license.",
+        "Consider adding Solar PV or EV charger installation specialization."
+      ]
+    },
+    "starter_project": "Draw a labeled circuit safety map of the breakers and switches in a home (without touching live wires).",
+    "entry_certification": "NCVT ITI Electrician (India) / Registered Electrical Apprentice (US)",
+    "source": "U.S. BLS OOH & Skill India NCVT",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "hvac_technician",
+    "title": "HVAC & Refrigeration Technician",
+    "sector": "Skilled Trades",
+    "description": "Installs and repairs air conditioners, heat pumps, ventilation, and cold-storage refrigeration systems.",
+    "day_in_the_life": "You test cooling units, clean coils, measure airflow and pressure, replace worn parts, and explain energy-saving care to customers.",
+    "riasec": {
+      "R": 95,
+      "I": 64,
+      "A": 18,
+      "S": 48,
+      "E": 46,
+      "C": 62
+    },
+    "required_skills": [
+      {
+        "name": "HVAC Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Electrical Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Preventive Maintenance",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Customer Support",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "Energy Auditing",
+        "level": "advanced",
+        "resource_ids": [
+          "res_solar_irec"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Vocational Refrigeration & AC Trade / Paid Apprenticeship",
+        "type": "apprenticeship",
+        "cost_tier": "low",
+        "duration": "6–24 months",
+        "summary": "Fast entry into stable year-round repair and installation work with strong self-employment potential.",
+        "exams": {
+          "global": [
+            "Refrigerant safety handling certificate"
+          ],
+          "in": [
+            "ITI Refrigeration & AC Technician / PMKVY"
+          ],
+          "us": [
+            "EPA Section 608 Certification"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Employer apprenticeships"
+          ],
+          "in": [
+            "Skill India free training"
+          ],
+          "us": [
+            "WIOA trade grants / Paid apprenticeships"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 17000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$17,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 190000,
+        "entry_max": 420000,
+        "period": "year",
+        "formatted": "₹1.9L – ₹4.2L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 62000,
+        "period": "year",
+        "formatted": "$44,000 – $62,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Rising heatwaves, heat pumps, and food cold-chains create urgent demand."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "licensed_electrician",
+      "energy_efficiency_auditor",
+      "commercial_plumber"
+    ],
+    "free_resource_ids": [
+      "res_alison_trades",
+      "res_skill_india_iti",
+      "res_apprenticeship_gov"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Finish an online intro to refrigeration cycles and electrical safety.",
+        "Contact 3 local AC/heating service workshops to ask about helper openings."
+      ],
+      "months_6": [
+        "Complete a recognized trade certificate (ITI RAC or EPA 608 prep).",
+        "Practice safe preventive maintenance alongside an experienced technician."
+      ],
+      "years_2": [
+        "Specialize in commercial heat pumps or cold-storage refrigeration.",
+        "Optionally register a small local service business."
+      ]
+    },
+    "starter_project": "Diagram how a heat pump or split AC moves heat and list 5 maintenance steps that cut electricity bills.",
+    "entry_certification": "EPA 608 (US) / NCVT ITI Refrigeration & AC (India)",
+    "source": "U.S. BLS OOH & Skill India Digital",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "cnc_machinist",
+    "title": "CNC Machinist & Toolmaker",
+    "sector": "Skilled Trades",
+    "description": "Programs and operates computer-controlled precision machines to cut metal and plastic parts for cars, medical tools, and aircraft.",
+    "day_in_the_life": "You read 3D blueprints, load cutting tools, verify measurements down to fractions of a millimeter, and keep machines running safely.",
+    "riasec": {
+      "R": 94,
+      "I": 72,
+      "A": 28,
+      "S": 25,
+      "E": 30,
+      "C": 80
+    },
+    "required_skills": [
+      {
+        "name": "Blueprint Reading",
+        "level": "basic",
+        "resource_ids": [
+          "res_titans_cnc",
+          "res_freecad_draft"
+        ]
+      },
+      {
+        "name": "Precision Measurement",
+        "level": "basic",
+        "resource_ids": [
+          "res_titans_cnc"
+        ]
+      },
+      {
+        "name": "CNC Machining",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_titans_cnc"
+        ]
+      },
+      {
+        "name": "CAD Drafting",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_titans_cnc",
+          "res_freecad_draft"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "advanced",
+        "resource_ids": [
+          "res_titans_cnc"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Online CNC Academy + Paid Shop Apprenticeship",
+        "type": "apprenticeship",
+        "cost_tier": "free",
+        "duration": "6–18 months",
+        "summary": "TITANS of CNC offers free CAD/CAM training; local machine shops and ITI toolrooms hire apprentices directly.",
+        "exams": {
+          "global": [
+            "Shop skills test"
+          ],
+          "in": [
+            "ITI Machinist / IGTR Tool Room Diploma"
+          ],
+          "us": [
+            "NIMS Machining Credential"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "TITANS of CNC Academy (100% free)"
+          ],
+          "in": [
+            "MSME Tool Room subsidized seats"
+          ],
+          "us": [
+            "NIMS / Manufacturing workforce grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$18,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 210000,
+        "entry_max": 440000,
+        "period": "year",
+        "formatted": "₹2.1L – ₹4.4L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$44,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Precision manufacturing and EV/aerospace factories face a shortage of young CNC programmers."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "welding_specialist",
+      "architectural_drafter",
+      "automotive_ev_technician"
+    ],
+    "free_resource_ids": [
+      "res_titans_cnc",
+      "res_freecad_draft",
+      "res_apprenticeship_gov"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Start the free TITANS of CNC Building Blocks series.",
+        "Practice reading basic engineering dimensions and tolerances."
+      ],
+      "months_6": [
+        "Design 3 simple mechanical brackets in FreeCAD or Fusion free hobby tier.",
+        "Apply for CNC operator apprenticeships or MSME Tool Room courses."
+      ],
+      "years_2": [
+        "Advance from CNC operator to multi-axis CNC programmer.",
+        "Earn NIMS or national machinist certification."
+      ]
+    },
+    "starter_project": "Model a simple dimensioned bracket in FreeCAD and write out the order of cuts needed.",
+    "entry_certification": "NIMS CNC Credential / NCVT Machinist",
+    "source": "U.S. BLS OOH & TITANS of CNC",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "automotive_ev_technician",
+    "title": "Automotive & EV Technician",
+    "sector": "Skilled Trades",
+    "description": "Diagnoses, services, and repairs modern petrol, hybrid, and electric vehicles using diagnostic computers and mechanical tools.",
+    "day_in_the_life": "You plug in diagnostic scanners, inspect brakes and battery packs safely, test sensors, and keep vehicles roadworthy.",
+    "riasec": {
+      "R": 96,
+      "I": 72,
+      "A": 20,
+      "S": 42,
+      "E": 38,
+      "C": 64
+    },
+    "required_skills": [
+      {
+        "name": "Vehicle Diagnostics",
+        "level": "basic",
+        "resource_ids": [
+          "res_ev_basics",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Preventive Maintenance",
+        "level": "basic",
+        "resource_ids": [
+          "res_ev_basics"
+        ]
+      },
+      {
+        "name": "Electrical Safety",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_ev_basics",
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Battery & EV Systems",
+        "level": "advanced",
+        "resource_ids": [
+          "res_ev_basics"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Automotive / EV Vocational Diploma or Dealership Apprenticeship",
+        "type": "apprenticeship",
+        "cost_tier": "low",
+        "duration": "6–24 months",
+        "summary": "Combines workshop experience with modern high-voltage EV safety training.",
+        "exams": {
+          "global": [
+            "Manufacturer technician test"
+          ],
+          "in": [
+            "ITI Mechanic Motor Vehicle / ASDC EV Service Tech"
+          ],
+          "us": [
+            "ASE Entry-Level & EV Safety Certification"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Automaker youth academies"
+          ],
+          "in": [
+            "Skill India ASDC subsidized training"
+          ],
+          "us": [
+            "ASE Education Foundation grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 45000,
+        "period": "year",
+        "formatted": "$16,000 – $45,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 200000,
+        "entry_max": 450000,
+        "period": "year",
+        "formatted": "₹2.0L – ₹4.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 40000,
+        "entry_max": 60000,
+        "period": "year",
+        "formatted": "$40,000 – $60,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Two-wheeler, bus, and car electrification is creating fast demand for EV-trained mechanics."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "licensed_electrician",
+      "cnc_machinist",
+      "solar_pv_installer"
+    ],
+    "free_resource_ids": [
+      "res_ev_basics",
+      "res_skill_india_iti",
+      "res_apprenticeship_gov"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Study basic EV battery & motor concepts through free NPTEL/MIT modules.",
+        "Learn standard automotive workshop safety and tool names."
+      ],
+      "months_6": [
+        "Join a recognized automotive/EV service course or paid workshop apprenticeship.",
+        "Practice basic inspection checklists and OBD scanner reading."
+      ],
+      "years_2": [
+        "Earn high-voltage EV safety certification.",
+        "Progress to master diagnostic technician or EV fleet specialist."
+      ]
+    },
+    "starter_project": "Write a 10-point safety and preventive maintenance checklist for a two-wheeler or passenger car.",
+    "entry_certification": "ASDC EV Service Technician / ASE Entry-Level",
+    "source": "U.S. BLS OOH & Automotive Skills Development Council",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "commercial_plumber",
+    "title": "Commercial Plumber & Pipefitter",
+    "sector": "Skilled Trades",
+    "description": "Installs and repairs clean water supply, drainage, rainwater harvesting, and heating pipe systems in buildings.",
+    "day_in_the_life": "You read building plans, cut and join pipes, pressure-test lines for leaks, and repair water pumps and fixtures.",
+    "riasec": {
+      "R": 95,
+      "I": 54,
+      "A": 18,
+      "S": 42,
+      "E": 46,
+      "C": 60
+    },
+    "required_skills": [
+      {
+        "name": "Plumbing Systems",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Blueprint Reading",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Applied Math",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_khan_stats"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "advanced",
+        "resource_ids": [
+          "res_apprenticeship_gov"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Paid Plumbing Apprenticeship or ITI Plumber Course",
+        "type": "apprenticeship",
+        "cost_tier": "free",
+        "duration": "1–4 years (earn while learning)",
+        "summary": "High job security with low barriers to entry and strong path to running an independent service team.",
+        "exams": {
+          "global": [
+            "Local plumbing trade license"
+          ],
+          "in": [
+            "ITI Plumber (NCVT) / Water Management & Plumbing Skill Council"
+          ],
+          "us": [
+            "State Journeyman Plumber Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Paid apprenticeships"
+          ],
+          "in": [
+            "Skill India / NAPS stipends"
+          ],
+          "us": [
+            "Union / ABC Paid Apprenticeships"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 17000,
+        "entry_max": 50000,
+        "period": "year",
+        "formatted": "$17,000 – $50,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 180000,
+        "entry_max": 400000,
+        "period": "year",
+        "formatted": "₹1.8L – ₹4.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 66000,
+        "period": "year",
+        "formatted": "$44,000 – $66,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Essential infrastructure work that cannot be outsourced and grows with urban housing."
+    },
+    "fastest_entry_months": 9,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "hvac_technician",
+      "licensed_electrician",
+      "welding_specialist"
+    ],
+    "free_resource_ids": [
+      "res_alison_trades",
+      "res_skill_india_iti",
+      "res_apprenticeship_gov"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete a free plumbing basics & water-conservation module on Alison.",
+        "Check local apprenticeship listings or ITI admission calendars."
+      ],
+      "months_6": [
+        "Begin a paid helper/apprentice role or 1-year ITI Plumber course.",
+        "Learn safe pipe cutting, sealing, and leak-pressure checks."
+      ],
+      "years_2": [
+        "Build experience in commercial piping, solar water heaters, or rainwater harvesting.",
+        "Earn journeyman licensing."
+      ]
+    },
+    "starter_project": "Sketch a simple home rainwater-harvesting and greywater reuse layout with basic cost estimates.",
+    "entry_certification": "NCVT ITI Plumber / Registered Plumbing Apprentice",
+    "source": "U.S. BLS OOH & Skill India Digital",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "welding_specialist",
+    "title": "Welding & Fabrication Specialist",
+    "sector": "Skilled Trades",
+    "description": "Joins steel and metal structures accurately for bridges, solar frames, ships, vehicles, and construction.",
+    "day_in_the_life": "You inspect metal parts, choose the right welding process, wear protective gear, weld strong clean joints, and test weld quality.",
+    "riasec": {
+      "R": 98,
+      "I": 46,
+      "A": 34,
+      "S": 24,
+      "E": 34,
+      "C": 62
+    },
+    "required_skills": [
+      {
+        "name": "Welding Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Blueprint Reading",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_titans_cnc"
+        ]
+      },
+      {
+        "name": "Precision Measurement",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_titans_cnc"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "advanced",
+        "resource_ids": [
+          "res_apprenticeship_gov"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "ITI Welder / Vocational Welding Certificate",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–12 months",
+        "summary": "Short, practical workshop training that leads directly to fabrication, shipyard, or construction jobs.",
+        "exams": {
+          "global": [
+            "AWS / ISO 9606 Weld Qualification"
+          ],
+          "in": [
+            "ITI Welder (NCVT)"
+          ],
+          "us": [
+            "AWS Certified Welder Test"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Employer sponsorships"
+          ],
+          "in": [
+            "Govt. ITI free/low-fee seats"
+          ],
+          "us": [
+            "AWS Foundation Scholarships / WIOA"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 46000,
+        "period": "year",
+        "formatted": "$16,000 – $46,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 180000,
+        "entry_max": 420000,
+        "period": "year",
+        "formatted": "₹1.8L – ₹4.2L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 40000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$40,000 – $58,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Infrastructure, clean-energy towers, and manufacturing need certified welders worldwide."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "cnc_machinist",
+      "commercial_plumber",
+      "wind_turbine_technician"
+    ],
+    "free_resource_ids": [
+      "res_alison_trades",
+      "res_skill_india_iti",
+      "res_apprenticeship_gov"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Learn welding safety gear, ventilation rules, and basic joint symbols online.",
+        "Visit a local vocational center or ITI to see workshop training options."
+      ],
+      "months_6": [
+        "Complete hands-on MIG/stick welding practice in a certified workshop.",
+        "Pass a basic weld coupon inspection test."
+      ],
+      "years_2": [
+        "Learn TIG or pipe welding for higher-paying industrial roles.",
+        "Keep safety certifications current."
+      ]
+    },
+    "starter_project": "Study and draw the 5 basic weld joint types (butt, corner, edge, lap, tee) and their safety checklist.",
+    "entry_certification": "NCVT ITI Welder / AWS Certified Welder",
+    "source": "U.S. BLS OOH & American Welding Society",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "graphic_brand_designer",
+    "title": "Graphic & Brand Designer",
+    "sector": "Creative & Media",
+    "description": "Creates logos, posters, social media visuals, packaging, and clear print/digital layouts for organizations.",
+    "day_in_the_life": "You understand a client's message, choose readable fonts and colors, build visual drafts in Figma or Canva, and polish final files.",
+    "riasec": {
+      "R": 35,
+      "I": 45,
+      "A": 96,
+      "S": 50,
+      "E": 58,
+      "C": 48
+    },
+    "required_skills": [
+      {
+        "name": "Graphic Design",
+        "level": "basic",
+        "resource_ids": [
+          "res_canva_design",
+          "res_figma_learn"
+        ]
+      },
+      {
+        "name": "Typography & Color",
+        "level": "basic",
+        "resource_ids": [
+          "res_canva_design",
+          "res_figma_learn"
+        ]
+      },
+      {
+        "name": "Visual Hierarchy",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_figma_learn"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "advanced",
+        "resource_ids": [
+          "res_hubspot_marketing"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Design Tools + Real-World Portfolio",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "Practice with free tools (Figma, Canva, Inkscape) and design posters or menus for local shops, clubs, or nonprofits.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "None required"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Canva & Figma free tiers"
+          ],
+          "in": [
+            "SWAYAM Graphic Design"
+          ],
+          "us": [
+            "Community library LinkedIn Learning"
+          ]
+        }
+      },
+      {
+        "title": "Diploma or Degree in Graphic Design / Visual Arts",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "1–4 years",
+        "summary": "Structured studio feedback, print production, and brand systems training.",
+        "exams": {
+          "global": [
+            "Portfolio"
+          ],
+          "in": [
+            "CUET / Fine Arts Entrance / NID"
+          ],
+          "us": [
+            "Portfolio review"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public college grants"
+          ],
+          "in": [
+            "State art college low fees"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 42000,
+        "period": "year",
+        "formatted": "$16,000 – $42,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 220000,
+        "entry_max": 500000,
+        "period": "year",
+        "formatted": "₹2.2L – ₹5.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 60000,
+        "period": "year",
+        "formatted": "$42,000 – $60,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Moderate growth",
+      "demand": "Medium",
+      "note": "Competitive entry market—pairing visual craft with UI design or motion graphics widens job options."
+    },
+    "fastest_entry_months": 4,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "ux_ui_designer",
+      "video_editor_motion",
+      "digital_marketing_coordinator"
+    ],
+    "free_resource_ids": [
+      "res_canva_design",
+      "res_figma_learn",
+      "res_hubspot_marketing"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete Canva Design School essentials and recreate 3 crisp poster layouts in Figma.",
+        "Learn contrast rules so text is readable on small phones."
+      ],
+      "months_6": [
+        "Create a clean portfolio of 5 realistic brand kits (e.g., local bakery, community clinic, youth sports team).",
+        "Apply for junior designer roles or local studio internships."
+      ],
+      "years_2": [
+        "Add UI prototyping or short-form motion graphics to increase earning power.",
+        "Build repeat clients or join an in-house product team."
+      ]
+    },
+    "starter_project": "Design a complete 3-piece visual kit (logo, poster, phone flyer) for a real school club or local shop.",
+    "entry_certification": "Portfolio of 5 Projects (no formal license required)",
+    "source": "U.S. BLS OOH & AIGA Design Career Guide",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "video_editor_motion",
+    "title": "Video Editor & Motion Designer",
+    "sector": "Creative & Media",
+    "description": "Edits raw video, audio, captions, and simple animations into engaging educational, news, or brand stories.",
+    "day_in_the_life": "You sort raw clips, cut tight pacing, clean background noise, add readable subtitles, and export video for web or broadcast.",
+    "riasec": {
+      "R": 55,
+      "I": 45,
+      "A": 95,
+      "S": 42,
+      "E": 50,
+      "C": 52
+    },
+    "required_skills": [
+      {
+        "name": "Video Editing",
+        "level": "basic",
+        "resource_ids": [
+          "res_davinci_train"
+        ]
+      },
+      {
+        "name": "Storytelling",
+        "level": "basic",
+        "resource_ids": [
+          "res_davinci_train"
+        ]
+      },
+      {
+        "name": "Audio Mixing",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_audacity_audio",
+          "res_davinci_train"
+        ]
+      },
+      {
+        "name": "Motion Graphics",
+        "level": "advanced",
+        "resource_ids": [
+          "res_davinci_train"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free DaVinci Resolve Training + Showreel Portfolio",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "DaVinci Resolve has a professional free version and official free lessons; a 60-second showreel proves your skill.",
+        "exams": {
+          "global": [
+            "Optional Blackmagic Free Online Exam"
+          ],
+          "in": [
+            "None required"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Blackmagic Official Training (100% free)"
+          ],
+          "in": [
+            "Skill India Media & Entertainment courses"
+          ],
+          "us": [
+            "Community media center free labs"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 45000,
+        "period": "year",
+        "formatted": "$16,000 – $45,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 540000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.4L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$42,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Online education, local businesses, newsrooms, and creators need dependable editors."
+    },
+    "fastest_entry_months": 4,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "graphic_brand_designer",
+      "audio_production_technician",
+      "digital_marketing_coordinator"
+    ],
+    "free_resource_ids": [
+      "res_davinci_train",
+      "res_audacity_audio",
+      "res_canva_design"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete the first 3 official DaVinci Resolve editing tutorials using free practice footage.",
+        "Edit a 60-second explainer video with clean captions."
+      ],
+      "months_6": [
+        "Assemble a tight 90-second editing reel showing 3 styles (educational, interview, short-form).",
+        "Offer starter edits to school events, local educators, or nonprofits."
+      ],
+      "years_2": [
+        "Add motion graphics and sound design to command agency or full-time production salaries.",
+        "Build a steady roster of clients or join a media studio."
+      ]
+    },
+    "starter_project": "Shoot on a phone and edit a clear 60-second 'how-to' tutorial with balanced audio and readable captions.",
+    "entry_certification": "Blackmagic Design DaVinci Resolve End User Certificate (Free)",
+    "source": "U.S. BLS OOH & Blackmagic Design Training",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "technical_writer",
+    "title": "Technical Writer & Documentation Specialist",
+    "sector": "Creative & Media",
+    "description": "Explains complicated products, medical tools, or software in clear, plain-language manuals, FAQs, and user guides.",
+    "day_in_the_life": "You interview engineers or trainers, test instructions step by step, rewrite confusing jargon simply, and organize help centers.",
+    "riasec": {
+      "R": 25,
+      "I": 78,
+      "A": 86,
+      "S": 65,
+      "E": 35,
+      "C": 76
+    },
+    "required_skills": [
+      {
+        "name": "Clear Writing",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_tech_writing"
+        ]
+      },
+      {
+        "name": "Research & Editing",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_tech_writing"
+        ]
+      },
+      {
+        "name": "Technical Documentation",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_google_tech_writing"
+        ]
+      },
+      {
+        "name": "Information Architecture",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_google_tech_writing"
+        ]
+      },
+      {
+        "name": "Git & Version Control",
+        "level": "advanced",
+        "resource_ids": [
+          "res_freecodecamp"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Technical Writing Course + Open-Source Writing Samples",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "Any strong writer can enter tech, healthcare, or engineering companies by publishing 3 clear how-to guides.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "None required"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Google Developers Technical Writing (100% free)"
+          ],
+          "in": [
+            "Google Tech Writing / Write the Docs community"
+          ],
+          "us": [
+            "Google Tech Writing"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor's in English, Communications, Journalism, or Science",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–4 years",
+        "summary": "Develops strong editing, interviewing, and domain research skills.",
+        "exams": {
+          "global": [
+            "University admission"
+          ],
+          "in": [
+            "CUET"
+          ],
+          "us": [
+            "University admission"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university aid"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 22000,
+        "entry_max": 52000,
+        "period": "year",
+        "formatted": "$22,000 – $52,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 320000,
+        "entry_max": 680000,
+        "period": "year",
+        "formatted": "₹3.2L – ₹6.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 56000,
+        "entry_max": 78000,
+        "period": "year",
+        "formatted": "$56,000 – $78,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "AI drafts raw text quickly, so companies value human writers who verify accuracy and test real steps."
+    },
+    "fastest_entry_months": 5,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "ux_ui_designer",
+      "paralegal_assistant",
+      "secondary_teacher"
+    ],
+    "free_resource_ids": [
+      "res_google_tech_writing",
+      "res_freecodecamp"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Finish Google Technical Writing One & Two.",
+        "Rewrite a confusing instruction manual for an appliance or app in 5 clear steps."
+      ],
+      "months_6": [
+        "Contribute documentation improvements to 2 open-source projects on GitHub.",
+        "Apply for junior technical writer or help-center editor roles."
+      ],
+      "years_2": [
+        "Learn API documentation and structured docs-as-code workflows.",
+        "Specialize in software, fintech, or medical devices."
+      ]
+    },
+    "starter_project": "Write a 2-page plain-English setup and troubleshooting guide for a free app that a first-time user can follow without help.",
+    "entry_certification": "Google Developers Technical Writing & Writing Portfolio",
+    "source": "U.S. BLS OOH & Google Developers",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "audio_production_technician",
+    "title": "Sound & Audio Production Technician",
+    "sector": "Creative & Media",
+    "description": "Sets up microphones, mixes live events, and edits clean audio for podcasts, radio, classrooms, and films.",
+    "day_in_the_life": "You test soundboards before live events, remove echo and background noise from recordings, and balance voices with music.",
+    "riasec": {
+      "R": 78,
+      "I": 52,
+      "A": 90,
+      "S": 45,
+      "E": 40,
+      "C": 55
+    },
+    "required_skills": [
+      {
+        "name": "Microphone & Recording",
+        "level": "basic",
+        "resource_ids": [
+          "res_audacity_audio"
+        ]
+      },
+      {
+        "name": "Audio Mixing",
+        "level": "basic",
+        "resource_ids": [
+          "res_audacity_audio",
+          "res_davinci_train"
+        ]
+      },
+      {
+        "name": "Acoustics Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_audacity_audio"
+        ]
+      },
+      {
+        "name": "Storytelling",
+        "level": "advanced",
+        "resource_ids": [
+          "res_davinci_train"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Audio Software Practice + Live Event Crew Apprenticeship",
+        "type": "apprenticeship",
+        "cost_tier": "free",
+        "duration": "4–12 months",
+        "summary": "Learn editing on free tools like Audacity/Reaper and assist local community radio, auditoriums, or worship/school AV teams.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "Skill India Sound Assistant (optional)"
+          ],
+          "us": [
+            "Optional AVIXA CTS"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Coursera Audio Audit (free)"
+          ],
+          "in": [
+            "Skill India Media courses"
+          ],
+          "us": [
+            "Community radio volunteer training"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 15000,
+        "entry_max": 42000,
+        "period": "year",
+        "formatted": "$15,000 – $42,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 200000,
+        "entry_max": 480000,
+        "period": "year",
+        "formatted": "₹2.0L – ₹4.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 38000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$38,000 – $58,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Moderate growth",
+      "demand": "Medium",
+      "note": "Live corporate events, podcasts, and regional-language media provide steady freelance and studio work."
+    },
+    "fastest_entry_months": 5,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "video_editor_motion",
+      "graphic_brand_designer",
+      "it_support_specialist"
+    ],
+    "free_resource_ids": [
+      "res_audacity_audio",
+      "res_davinci_train"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Learn noise reduction, EQ, and leveling in free Audacity or DaVinci Fairlight.",
+        "Record and clean a 3-minute interview using a phone mic."
+      ],
+      "months_6": [
+        "Volunteer on an AV crew for school/community events and produce 3 polished audio demos.",
+        "Apply for junior AV technician or podcast editor roles."
+      ],
+      "years_2": [
+        "Learn live digital soundboards and room acoustics for higher-paying concert/conference work.",
+        "Build repeat institutional clients."
+      ]
+    },
+    "starter_project": "Record, clean, and mix a 3-minute community story or podcast intro with clear speech and balanced volume.",
+    "entry_certification": "Audio Demo Portfolio / Optional AVIXA CTS",
+    "source": "U.S. BLS OOH & Community Media Guides",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "architectural_drafter",
+    "title": "Architectural Drafting Technician",
+    "sector": "Creative & Media",
+    "description": "Turns architects' and civil engineers' sketches into precise 2D and 3D digital floor plans used by builders.",
+    "day_in_the_life": "You draw room layouts, staircases, and elevations in CAD software, check local building safety rules, and update revisions.",
+    "riasec": {
+      "R": 74,
+      "I": 68,
+      "A": 80,
+      "S": 30,
+      "E": 32,
+      "C": 84
+    },
+    "required_skills": [
+      {
+        "name": "CAD Drafting",
+        "level": "basic",
+        "resource_ids": [
+          "res_freecad_draft",
+          "res_titans_cnc"
+        ]
+      },
+      {
+        "name": "Blueprint Reading",
+        "level": "basic",
+        "resource_ids": [
+          "res_freecad_draft",
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Spatial Visualization",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_freecad_draft"
+        ]
+      },
+      {
+        "name": "Building Codes Basics",
+        "level": "advanced",
+        "resource_ids": [
+          "res_freecad_draft"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "ITI Draughtsman Civil / CAD Vocational Diploma",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–2 years",
+        "summary": "Practical route into architectural studios and construction firms without spending 5 years in architecture school.",
+        "exams": {
+          "global": [
+            "Trade institute exam"
+          ],
+          "in": [
+            "Govt. ITI Draughtsman Civil / Polytechnic Civil"
+          ],
+          "us": [
+            "Community College CAD Associate Degree"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "FreeCAD open training"
+          ],
+          "in": [
+            "Govt. ITI / NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$18,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 220000,
+        "entry_max": 480000,
+        "period": "year",
+        "formatted": "₹2.2L – ₹4.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 46000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$46,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Housing, public infrastructure, and green-building retrofits need accurate CAD/BIM technicians."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "cnc_machinist",
+      "urban_planning_assistant",
+      "graphic_brand_designer"
+    ],
+    "free_resource_ids": [
+      "res_freecad_draft",
+      "res_alison_trades"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Install free FreeCAD and trace an accurate measured floor plan of one room.",
+        "Learn standard architectural door, window, and dimension symbols."
+      ],
+      "months_6": [
+        "Complete a drafting/CAD certificate and compile a 4-sheet portfolio of small house plans.",
+        "Apply for junior CAD drafter roles at builders or architecture studios."
+      ],
+      "years_2": [
+        "Add BIM (Building Information Modeling) skills for higher-paying commercial projects.",
+        "Collaborate with civil engineers on green-building layouts."
+      ]
+    },
+    "starter_project": "Measure one room accurately with a tape measure and draw a clean scaled 2D plan in FreeCAD.",
+    "entry_certification": "NCVT ITI Draughtsman Civil / CAD Drafting Certificate",
+    "source": "U.S. BLS OOH & Skill India NCVT",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "secondary_teacher",
+    "title": "Secondary School Teacher",
+    "sector": "Public Service & Education",
+    "description": "Teaches high-school students core subjects like math, science, languages, or history while mentoring their growth.",
+    "day_in_the_life": "You plan clear lessons, explain tricky ideas with examples, grade student work fairly, and partner with parents to support learners.",
+    "riasec": {
+      "R": 28,
+      "I": 64,
+      "A": 60,
+      "S": 96,
+      "E": 56,
+      "C": 66
+    },
+    "required_skills": [
+      {
+        "name": "Lesson Planning",
+        "level": "basic",
+        "resource_ids": [
+          "res_teaching_open"
+        ]
+      },
+      {
+        "name": "Classroom Communication",
+        "level": "basic",
+        "resource_ids": [
+          "res_teaching_open"
+        ]
+      },
+      {
+        "name": "Active Listening",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_teaching_open",
+          "res_social_work_open"
+        ]
+      },
+      {
+        "name": "Student Assessment",
+        "level": "advanced",
+        "resource_ids": [
+          "res_teaching_open"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Public University Bachelor's + Teaching Credential (B.Ed / State License)",
+        "type": "degree",
+        "cost_tier": "low",
+        "duration": "4–5 years",
+        "summary": "Public teacher-training colleges have modest fees and unlock stable public-school careers with pensions.",
+        "exams": {
+          "global": [
+            "National teaching eligibility exam"
+          ],
+          "in": [
+            "CTET / State TET + B.Ed (or 4-yr Integrated ITEP)"
+          ],
+          "us": [
+            "Praxis / State Teacher Licensing Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Government teacher-shortage grants"
+          ],
+          "in": [
+            "State B.Ed fee waivers / NSP"
+          ],
+          "us": [
+            "TEACH Grant / Public Service Loan Forgiveness"
+          ]
+        }
+      },
+      {
+        "title": "Tutor / Teaching Assistant Entry While Studying",
+        "type": "vocational",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "Start earning and testing whether you love teaching through after-school tutoring, NGO fellowships, or paraprofessional roles.",
+        "exams": {
+          "global": [
+            "None for tutoring"
+          ],
+          "in": [
+            "NGO fellowship screening (e.g. Teach For India after grad)"
+          ],
+          "us": [
+            "Paraprofessional exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Commonwealth Education Trust Free Courses"
+          ],
+          "in": [
+            "DIKSHA / SWAYAM free teacher modules"
+          ],
+          "us": [
+            "District Grow-Your-Own Teacher paid pathways"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 14000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$14,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 580000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 60000,
+        "period": "year",
+        "formatted": "$44,000 – $60,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Math, science, and special-education teachers remain in strong demand across public and private schools."
+    },
+    "fastest_entry_months": 36,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "social_worker",
+      "community_health_worker",
+      "technical_writer"
+    ],
+    "free_resource_ids": [
+      "res_teaching_open",
+      "res_khan_stats",
+      "res_swayam_health_tech"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Audit Foundations of Teaching for Learning and tutor a younger student for 2 hours.",
+        "Write one 15-minute mini-lesson on your favorite school subject."
+      ],
+      "months_6": [
+        "Research low-fee government B.Ed / ITEP or district Grow-Your-Own teacher programs.",
+        "Volunteer as a peer mentor or community reading helper."
+      ],
+      "years_2": [
+        "Complete subject degree + teaching certification and pass regional licensing (CTET/Praxis).",
+        "Apply for public or accredited private school teaching openings."
+      ]
+    },
+    "starter_project": "Design a 20-minute interactive lesson plan with 3 practice questions on a topic younger students find confusing.",
+    "entry_certification": "CTET / State TET + B.Ed (India) or State Teaching License (US)",
+    "source": "UNESCO Teacher Report, U.S. BLS OOH & NCTE",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "social_worker",
+    "title": "Social Worker & Community Counsellor",
+    "sector": "Public Service & Education",
+    "description": "Supports children, families, and vulnerable residents by connecting them to housing, education, legal aid, and mental health care.",
+    "day_in_the_life": "You meet clients with empathy, assess urgent needs, coordinate with schools or clinics, and keep confidential case notes.",
+    "riasec": {
+      "R": 22,
+      "I": 56,
+      "A": 44,
+      "S": 98,
+      "E": 52,
+      "C": 60
+    },
+    "required_skills": [
+      {
+        "name": "Active Listening",
+        "level": "basic",
+        "resource_ids": [
+          "res_social_work_open"
+        ]
+      },
+      {
+        "name": "Community Outreach",
+        "level": "basic",
+        "resource_ids": [
+          "res_social_work_open",
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Case Documentation",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_social_work_open"
+        ]
+      },
+      {
+        "name": "Data Privacy & Ethics",
+        "level": "advanced",
+        "resource_ids": [
+          "res_social_work_open",
+          "res_health_informatics"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Social Work Assistant / NGO Field Coordinator (Low-Cost Start)",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–12 months",
+        "summary": "Enter through community NGOs or human-services certificates before committing to a graduate degree.",
+        "exams": {
+          "global": [
+            "None for assistant roles"
+          ],
+          "in": [
+            "None for NGO field roles"
+          ],
+          "us": [
+            "Community college Human Services Certificate"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "OpenLearn Social Work (free)"
+          ],
+          "in": [
+            "IGNOU low-fee BSW/MSW"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor or Master of Social Work (BSW / MSW)",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–5 years",
+        "summary": "Required for clinical counselling, hospital social work, and government welfare officer roles.",
+        "exams": {
+          "global": [
+            "Regional social work license"
+          ],
+          "in": [
+            "CUET / TISS / State Social Work admissions"
+          ],
+          "us": [
+            "ASWB Licensing Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university subsidies"
+          ],
+          "in": [
+            "NSP / SC-ST-OBC & Merit-cum-Means aid"
+          ],
+          "us": [
+            "Title IV-E Child Welfare Stipends / Pell"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 14000,
+        "entry_max": 45000,
+        "period": "year",
+        "formatted": "$14,000 – $45,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 200000,
+        "entry_max": 450000,
+        "period": "year",
+        "formatted": "₹2.0L – ₹4.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$44,000 – $58,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Schools, hospitals, and municipal programs need trained counsellors and caseworkers."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "community_health_worker",
+      "secondary_teacher",
+      "civil_services_coordinator"
+    ],
+    "free_resource_ids": [
+      "res_social_work_open",
+      "res_openwho"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete OpenLearn Introduction to Social Work.",
+        "List 3 local nonprofits or youth centers and ask about volunteer shifts."
+      ],
+      "months_6": [
+        "Gain 40+ hours of community volunteering and learn ethical confidentiality rules.",
+        "Compare affordable public BSW/Human Services programs (like IGNOU or community college)."
+      ],
+      "years_2": [
+        "Move into a paid caseworker or youth-support coordinator role.",
+        "Complete accredited BSW/MSW if targeting licensed counselling."
+      ]
+    },
+    "starter_project": "Compile a verified 1-page directory of free student scholarships, food aid, and counselling helplines in your city.",
+    "entry_certification": "Human Services Certificate / BSW or MSW (for clinical roles)",
+    "source": "U.S. BLS OOH & International Federation of Social Workers",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "urban_planning_assistant",
+    "title": "Urban Planning & GIS Assistant",
+    "sector": "Public Service & Education",
+    "description": "Maps roads, bus routes, parks, and flood zones to help cities grow safely and fairly.",
+    "day_in_the_life": "You build digital maps in QGIS, analyze neighborhood census data, prepare visual slides for public hearings, and inspect land-use records.",
+    "riasec": {
+      "R": 52,
+      "I": 84,
+      "A": 58,
+      "S": 66,
+      "E": 45,
+      "C": 78
+    },
+    "required_skills": [
+      {
+        "name": "GIS & Mapping",
+        "level": "basic",
+        "resource_ids": [
+          "res_gis_qgis"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data",
+          "res_gis_qgis"
+        ]
+      },
+      {
+        "name": "Public Policy Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_legal_basics",
+          "res_gis_qgis"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free QGIS Mapping Portfolio + GIS Certificate",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "6–12 months",
+        "summary": "QGIS is 100% free and used by cities and NGOs worldwide; a 3-map portfolio qualifies you for GIS technician roles.",
+        "exams": {
+          "global": [
+            "None for GIS assistant"
+          ],
+          "in": [
+            "None for GIS technician / ISRO IIRS free e-learning"
+          ],
+          "us": [
+            "Community college GIS Certificate"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "QGIS Official Manual (free)"
+          ],
+          "in": [
+            "IIRS-ISRO Free Online GIS Courses"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor's in Geography, Urban Planning, or Civil Engineering",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–4 years",
+        "summary": "Prepares you for municipal urban planner and transport policy positions.",
+        "exams": {
+          "global": [
+            "University admission"
+          ],
+          "in": [
+            "CUET / JEE B.Plan"
+          ],
+          "us": [
+            "University admission"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university grants"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 20000,
+        "entry_max": 52000,
+        "period": "year",
+        "formatted": "$20,000 – $52,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 280000,
+        "entry_max": 600000,
+        "period": "year",
+        "formatted": "₹2.8L – ₹6.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 50000,
+        "entry_max": 68000,
+        "period": "year",
+        "formatted": "$50,000 – $68,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Climate resilience, transit mapping, and smart-city projects drive steady GIS hiring."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "environmental_field_technician",
+      "architectural_drafter",
+      "data_analyst"
+    ],
+    "free_resource_ids": [
+      "res_gis_qgis",
+      "res_kaggle_data",
+      "res_legal_basics"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Install free QGIS and complete the first 4 chapters of the QGIS Training Manual.",
+        "Map public schools, clinics, or bus stops in your town using OpenStreetMap data."
+      ],
+      "months_6": [
+        "Build 3 clear civic maps (e.g., shade/tree cover, transit access, flood risk).",
+        "Apply for GIS technician internships at municipal offices, NGOs, or surveying firms."
+      ],
+      "years_2": [
+        "Combine GIS with Python/SQL spatial analysis or pursue a planning credential.",
+        "Advance into Urban Data Analyst or Assistant Planner."
+      ]
+    },
+    "starter_project": "Use free QGIS + OpenStreetMap to map walkable distance to public clinics or parks in your neighborhood.",
+    "entry_certification": "QGIS Portfolio / IIRS-ISRO Free GIS Certificate",
+    "source": "U.S. BLS OOH & QGIS Training Project",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "paralegal_assistant",
+    "title": "Paralegal & Legal Assistant",
+    "sector": "Public Service & Education",
+    "description": "Helps lawyers, legal-aid clinics, and companies organize contracts, research laws, and prepare case files accurately.",
+    "day_in_the_life": "You check filing deadlines, summarize legal documents in plain notes, interview witnesses, and keep evidence folders spotless.",
+    "riasec": {
+      "R": 18,
+      "I": 78,
+      "A": 38,
+      "S": 60,
+      "E": 58,
+      "C": 94
+    },
+    "required_skills": [
+      {
+        "name": "Legal Research",
+        "level": "basic",
+        "resource_ids": [
+          "res_legal_basics"
+        ]
+      },
+      {
+        "name": "Clear Writing",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_tech_writing",
+          "res_legal_basics"
+        ]
+      },
+      {
+        "name": "Case Documentation",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_legal_basics",
+          "res_social_work_open"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_legal_basics"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Paralegal Certificate / Legal Aid Volunteer Entry",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–18 months",
+        "summary": "Start working in law offices or legal-aid organizations without spending 5–7 years in law school.",
+        "exams": {
+          "global": [
+            "Optional regional paralegal exam"
+          ],
+          "in": [
+            "NALSA Para-Legal Volunteer (free) / IGNOU Paralegal Certificate"
+          ],
+          "us": [
+            "Community College Paralegal Certificate / NALA CP"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Saylor Academy free legal courses"
+          ],
+          "in": [
+            "NALSA Free PLV Training / IGNOU low fee"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$18,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 520000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.2L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 46000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$46,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Law firms, legal-aid clinics, and corporate compliance teams steadily hire organized paralegals."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "civil_services_coordinator",
+      "technical_writer",
+      "accounting_bookkeeper"
+    ],
+    "free_resource_ids": [
+      "res_legal_basics",
+      "res_google_tech_writing"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Take a free Saylor Academy or OpenLearn intro course on contracts and legal systems.",
+        "Practice summarizing a public court judgment into 5 clear bullet points."
+      ],
+      "months_6": [
+        "Enroll in a low-cost paralegal certificate (or NALSA Para-Legal Volunteer training in India).",
+        "Apply for legal clerk or document assistant roles."
+      ],
+      "years_2": [
+        "Specialize in compliance, consumer rights, or real-estate documentation.",
+        "Optionally apply to law school later with strong practical experience."
+      ]
+    },
+    "starter_project": "Summarize a standard public rental lease agreement into a plain-language 1-page tenant checklist.",
+    "entry_certification": "Paralegal Studies Certificate / NALSA PLV",
+    "source": "U.S. BLS OOH & NALSA / NALA Guides",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "civil_services_coordinator",
+    "title": "Public Administration & Municipal Coordinator",
+    "sector": "Public Service & Education",
+    "description": "Runs public programs—like libraries, local transit, citizen helplines, and scholarship offices—so public services reach everyone fairly.",
+    "day_in_the_life": "You process citizen applications, track public budgets, write status reports, and solve operational bottlenecks across departments.",
+    "riasec": {
+      "R": 22,
+      "I": 58,
+      "A": 28,
+      "S": 80,
+      "E": 74,
+      "C": 90
+    },
+    "required_skills": [
+      {
+        "name": "Public Policy Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_legal_basics"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "basic",
+        "resource_ids": [
+          "res_accounting_coach",
+          "res_legal_basics"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Budgeting",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Clerical / Municipal Exam Path + Public University Degree",
+        "type": "degree",
+        "cost_tier": "low",
+        "duration": "1–3 years",
+        "summary": "Public administration roles often accept any accredited undergraduate degree plus transparent competitive exams—and always keep a backup private/NGO operations skill set.",
+        "exams": {
+          "global": [
+            "Civil service / municipal entrance exam"
+          ],
+          "in": [
+            "SSC CGL/CHSL, State PSC, or UPSC (keep backup skill plan!)"
+          ],
+          "us": [
+            "USAJOBS / State & Municipal Civil Service Exams"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public library exam prep"
+          ],
+          "in": [
+            "Government free coaching schemes (e.g. State/Minority/NSP)"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$16,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 300000,
+        "entry_max": 700000,
+        "period": "year",
+        "formatted": "₹3.0L – ₹7.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$44,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Competitive exam odds can be low; pairing exam prep with spreadsheet/operations skills gives a strong Plan B."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "paralegal_assistant",
+      "urban_planning_assistant",
+      "small_business_manager"
+    ],
+    "free_resource_ids": [
+      "res_legal_basics",
+      "res_accounting_coach",
+      "res_kaggle_data"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Review your region's official public-service portal and note real selection ratios honestly.",
+        "Pair exam study with practical spreadsheet & writing skills."
+      ],
+      "months_6": [
+        "Apply for municipal internships, NGO program coordinator roles, or clerical exams.",
+        "Practice budgeting and clear memo writing."
+      ],
+      "years_2": [
+        "Sit for targeted civil service exams while maintaining employable operations experience.",
+        "Advance into program or municipal operations management."
+      ]
+    },
+    "starter_project": "Draft a clear 1-page proposal and simple spreadsheet budget to improve a local public library or school computer room.",
+    "entry_certification": "Regional Civil Service Exam / Public Administration Certificate",
+    "source": "U.S. BLS OOH & India NCS Public Administration Guide",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "accounting_bookkeeper",
+    "title": "Accounting & Bookkeeping Specialist",
+    "sector": "Business & Finance",
+    "description": "Tracks income, bills, payroll, and taxes for small businesses, nonprofits, and firms so finances stay accurate and compliant.",
+    "day_in_the_life": "You enter invoices, reconcile bank statements, prepare monthly profit-and-loss summaries, and check tax deadlines.",
+    "riasec": {
+      "R": 20,
+      "I": 64,
+      "A": 18,
+      "S": 40,
+      "E": 52,
+      "C": 98
+    },
+    "required_skills": [
+      {
+        "name": "Accounting Basics",
+        "level": "basic",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data",
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "basic",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Financial Compliance",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Budgeting",
+        "level": "advanced",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free Accounting Foundations + Bookkeeping Software Certificate",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "4–8 months",
+        "summary": "Small shops and accounting firms hire dependable bookkeepers trained on free AccountingCoach + Tally/QuickBooks basics.",
+        "exams": {
+          "global": [
+            "Optional NACPB / QuickBooks / Tally"
+          ],
+          "in": [
+            "Tally / GST Accounts Assistant (Skill India)"
+          ],
+          "us": [
+            "Intuit Bookkeeping Certificate / AIPB"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "AccountingCoach (free)"
+          ],
+          "in": [
+            "Skill India GST Accounts Assistant"
+          ],
+          "us": [
+            "Coursera Financial Aid"
+          ]
+        }
+      },
+      {
+        "title": "B.Com / Bachelor's in Accounting + CPA/CA Track",
+        "type": "degree",
+        "cost_tier": "low",
+        "duration": "3–5 years",
+        "summary": "Public commerce colleges are affordable and open doors to Chartered Accountant (CA) or CPA careers.",
+        "exams": {
+          "global": [
+            "ACCA / National Accounting Board"
+          ],
+          "in": [
+            "CUET B.Com / ICAI CA Foundation"
+          ],
+          "us": [
+            "CPA Exam (after degree)"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university subsidies"
+          ],
+          "in": [
+            "NSP / ICAI Bos free study material"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 44000,
+        "period": "year",
+        "formatted": "$16,000 – $44,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 220000,
+        "entry_max": 480000,
+        "period": "year",
+        "formatted": "₹2.2L – ₹4.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 40000,
+        "entry_max": 56000,
+        "period": "year",
+        "formatted": "$40,000 – $56,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Every business—from neighborhood clinics to tech startups—needs accurate books and tax compliance."
+    },
+    "fastest_entry_months": 5,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "financial_operations_associate",
+      "supply_chain_analyst",
+      "small_business_manager"
+    ],
+    "free_resource_ids": [
+      "res_accounting_coach",
+      "res_khan_stats",
+      "res_kaggle_data"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Master debits, credits, and income statements on AccountingCoach.",
+        "Build a monthly cash-flow template in a free spreadsheet tool."
+      ],
+      "months_6": [
+        "Learn a regional bookkeeping tool (Tally/GST or QuickBooks) and practice reconciling sample ledgers.",
+        "Apply for accounts assistant or junior bookkeeper roles."
+      ],
+      "years_2": [
+        "Manage full monthly closes for small businesses or pursue B.Com / CA / CPA / ACCA.",
+        "Learn spreadsheet automation to handle more clients accurately."
+      ]
+    },
+    "starter_project": "Build a clean 3-month income, expense, and cash-balance spreadsheet for a fictional neighborhood bakery.",
+    "entry_certification": "Intuit Bookkeeping (Financial Aid) / Skill India GST Accounts Assistant",
+    "source": "U.S. BLS OOH & AccountingCoach",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "digital_marketing_coordinator",
+    "title": "Digital Marketing Coordinator",
+    "sector": "Business & Finance",
+    "description": "Helps businesses and nonprofits reach customers honestly through search engines, email newsletters, and social media.",
+    "day_in_the_life": "You write clear campaign posts, check which pages bring visitors, test headlines, and report simple conversion numbers.",
+    "riasec": {
+      "R": 22,
+      "I": 56,
+      "A": 78,
+      "S": 58,
+      "E": 90,
+      "C": 62
+    },
+    "required_skills": [
+      {
+        "name": "Digital Marketing",
+        "level": "basic",
+        "resource_ids": [
+          "res_hubspot_marketing",
+          "res_google_it_aid"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "basic",
+        "resource_ids": [
+          "res_hubspot_marketing",
+          "res_canva_design"
+        ]
+      },
+      {
+        "name": "Clear Writing",
+        "level": "basic",
+        "resource_ids": [
+          "res_google_tech_writing"
+        ]
+      },
+      {
+        "name": "Analytics Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_hubspot_marketing",
+          "res_kaggle_data"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Free HubSpot / Google Marketing Certs + Live Local Campaign",
+        "type": "online",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "No degree required; demonstrating real traffic or newsletter growth for a school club or local shop stands out.",
+        "exams": {
+          "global": [
+            "HubSpot Free Digital Marketing Exam"
+          ],
+          "in": [
+            "HubSpot / Google Digital Garage"
+          ],
+          "us": [
+            "HubSpot / Google Digital Marketing Cert"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "HubSpot Academy (100% free)"
+          ],
+          "in": [
+            "Coursera Financial Aid"
+          ],
+          "us": [
+            "Coursera Financial Aid"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 44000,
+        "period": "year",
+        "formatted": "$16,000 – $44,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 520000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.2L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 62000,
+        "period": "year",
+        "formatted": "$44,000 – $62,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Strong demand for marketers who combine clear writing with honest data analysis rather than hype."
+    },
+    "fastest_entry_months": 4,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "graphic_brand_designer",
+      "small_business_manager",
+      "data_analyst"
+    ],
+    "free_resource_ids": [
+      "res_hubspot_marketing",
+      "res_canva_design",
+      "res_google_it_aid"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Earn the free HubSpot Digital Marketing certificate.",
+        "Audit a local shop's online listing and write 3 practical improvement tips."
+      ],
+      "months_6": [
+        "Run a real 30-day content or email campaign for a club, nonprofit, or small shop and measure results.",
+        "Apply for junior marketing coordinator internships."
+      ],
+      "years_2": [
+        "Specialize in SEO, email lifecycle, or performance analytics.",
+        "Build a portfolio of verified growth results."
+      ]
+    },
+    "starter_project": "Create a 2-week content calendar, 3 visual posts, and a simple metrics tracking sheet for a local cause or shop.",
+    "entry_certification": "HubSpot Digital Marketing Certification (Free)",
+    "source": "U.S. BLS OOH & HubSpot Academy",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "supply_chain_analyst",
+    "title": "Supply Chain & Logistics Analyst",
+    "sector": "Business & Finance",
+    "description": "Plans how food, medicine, and goods move smoothly from factories and farms to stores without shortages or waste.",
+    "day_in_the_life": "You track shipment timelines, check warehouse stock levels in spreadsheets, coordinate with suppliers, and spot delivery delays early.",
+    "riasec": {
+      "R": 45,
+      "I": 78,
+      "A": 18,
+      "S": 45,
+      "E": 72,
+      "C": 92
+    },
+    "required_skills": [
+      {
+        "name": "Inventory Planning",
+        "level": "basic",
+        "resource_ids": [
+          "res_supply_chain_mit"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Operations Coordination",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_supply_chain_mit",
+          "res_small_biz_sba"
+        ]
+      },
+      {
+        "name": "Vendor Communication",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_supply_chain_mit"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "advanced",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Warehouse / Logistics Coordinator Start + Free Supply Chain Audit",
+        "type": "vocational",
+        "cost_tier": "free",
+        "duration": "4–9 months",
+        "summary": "Combine hands-on inventory/dispatch experience with free MITx/edX supply chain audits and strong Excel skills.",
+        "exams": {
+          "global": [
+            "None for entry"
+          ],
+          "in": [
+            "Logistics Sector Skill Council (LSC) Certificate"
+          ],
+          "us": [
+            "Optional ASCM CSCP later"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "edX Financial Assistance (up to 90% off / free audit)"
+          ],
+          "in": [
+            "Skill India Logistics courses"
+          ],
+          "us": [
+            "Employer tuition aid at logistics firms"
+          ]
+        }
+      },
+      {
+        "title": "Bachelor's in Business, Operations, or Industrial Engineering",
+        "type": "degree",
+        "cost_tier": "moderate",
+        "duration": "3–4 years",
+        "summary": "Fast-tracks entry into corporate procurement and global logistics planning.",
+        "exams": {
+          "global": [
+            "University admission"
+          ],
+          "in": [
+            "CUET / BBA / B.Tech"
+          ],
+          "us": [
+            "University admission"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Public university grants"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 22000,
+        "entry_max": 54000,
+        "period": "year",
+        "formatted": "$22,000 – $54,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 300000,
+        "entry_max": 680000,
+        "period": "year",
+        "formatted": "₹3.0L – ₹6.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 54000,
+        "entry_max": 74000,
+        "period": "year",
+        "formatted": "$54,000 – $74,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "E-commerce, manufacturing, and hospital supply chains constantly need sharp planners."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "data_analyst",
+      "small_business_manager",
+      "accounting_bookkeeper"
+    ],
+    "free_resource_ids": [
+      "res_supply_chain_mit",
+      "res_kaggle_data",
+      "res_small_biz_sba"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Audit an introductory supply chain course on edX and practice spreadsheet reorder formulas.",
+        "Learn key terms: lead time, safety stock, and on-time delivery."
+      ],
+      "months_6": [
+        "Build an inventory & reorder alert spreadsheet for a sample shop or pharmacy.",
+        "Apply for junior logistics coordinator or inventory analyst roles."
+      ],
+      "years_2": [
+        "Add SQL/BI dashboards to forecast demand.",
+        "Advance into Supply Chain Planner or Procurement Specialist."
+      ]
+    },
+    "starter_project": "Create an inventory tracker spreadsheet that automatically flags items running low before restock lead time.",
+    "entry_certification": "Skill India Logistics Coordinator / edX Supply Chain Audit",
+    "source": "U.S. BLS OOH & MITx Supply Chain Guide",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "financial_operations_associate",
+    "title": "Financial Operations Associate",
+    "sector": "Business & Finance",
+    "description": "Supports banks, cooperatives, and fintech teams by verifying transactions, helping account holders, and preventing payment errors.",
+    "day_in_the_life": "You check daily settlements, review customer KYC documents accurately, resolve billing errors, and follow financial regulations.",
+    "riasec": {
+      "R": 18,
+      "I": 68,
+      "A": 18,
+      "S": 54,
+      "E": 64,
+      "C": 95
+    },
+    "required_skills": [
+      {
+        "name": "Spreadsheets",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Financial Compliance",
+        "level": "basic",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Accounting Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Customer Support",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_small_biz_sba"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Banking / Commerce Foundation + Entry Operations Role",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–12 months",
+        "summary": "Credit unions, rural/urban banks, and fintech ops teams hire detail-focused candidates with strong numeracy and ethics.",
+        "exams": {
+          "global": [
+            "Bank aptitude screening"
+          ],
+          "in": [
+            "IBPS Clerk / BFSI Skill Council Certificate"
+          ],
+          "us": [
+            "Entry banking / credit union screening"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Khan Academy Finance & Capital Markets (free)"
+          ],
+          "in": [
+            "BFSI Skill India free training"
+          ],
+          "us": [
+            "Community college financial services aid"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$18,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 280000,
+        "entry_max": 600000,
+        "period": "year",
+        "formatted": "₹2.8L – ₹6.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$44,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Digital payments and financial inclusion expand back-office compliance and fraud-prevention teams."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "accounting_bookkeeper",
+      "data_analyst",
+      "civil_services_coordinator"
+    ],
+    "free_resource_ids": [
+      "res_accounting_coach",
+      "res_khan_stats",
+      "res_kaggle_data"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Review interest rates, banking basics, and spreadsheet lookup formulas.",
+        "Learn how basic KYC and fraud-prevention checks protect customers."
+      ],
+      "months_6": [
+        "Complete a free accounting/BFSI module and prepare for bank clerk or fintech ops interviews.",
+        "Practice clear, polite customer communication."
+      ],
+      "years_2": [
+        "Specialize in anti-fraud operations, loan underwriting, or financial analysis.",
+        "Earn an industry banking or risk certification."
+      ]
+    },
+    "starter_project": "Build a simple loan repayment & interest comparison calculator in a spreadsheet showing total cost clearly.",
+    "entry_certification": "BFSI Skill Council Associate / AccountingCoach Foundations",
+    "source": "U.S. BLS OOH & BFSI Sector Skill Council",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "small_business_manager",
+    "title": "Small Business & Operations Manager",
+    "sector": "Business & Finance",
+    "description": "Runs daily operations for a local business, clinic, café, or startup—coordinating staff schedules, customers, suppliers, and budgets.",
+    "day_in_the_life": "You open operations smoothly, solve customer issues, track weekly sales vs. costs, negotiate with suppliers, and coach staff.",
+    "riasec": {
+      "R": 40,
+      "I": 50,
+      "A": 40,
+      "S": 74,
+      "E": 96,
+      "C": 72
+    },
+    "required_skills": [
+      {
+        "name": "Operations Coordination",
+        "level": "basic",
+        "resource_ids": [
+          "res_small_biz_sba"
+        ]
+      },
+      {
+        "name": "Budgeting",
+        "level": "basic",
+        "resource_ids": [
+          "res_accounting_coach",
+          "res_small_biz_sba"
+        ]
+      },
+      {
+        "name": "Customer Support",
+        "level": "basic",
+        "resource_ids": [
+          "res_small_biz_sba"
+        ]
+      },
+      {
+        "name": "Vendor Communication",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_small_biz_sba"
+        ]
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "advanced",
+        "resource_ids": [
+          "res_hubspot_marketing"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "On-the-Job Supervisor Path + Free Entrepreneurship Toolkit",
+        "type": "apprenticeship",
+        "cost_tier": "free",
+        "duration": "6–18 months",
+        "summary": "Start as a store, clinic, or operations associate while learning unit economics and bookkeeping through free SBA/Wadhwani courses.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "None required"
+          ],
+          "us": [
+            "None required"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "SBA & Wadhwani Free Business Toolkits"
+          ],
+          "in": [
+            "MSME / Wadhwani Entrepreneurship free cohorts"
+          ],
+          "us": [
+            "SCORE Free Small Business Mentorship"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$16,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 580000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 66000,
+        "period": "year",
+        "formatted": "$42,000 – $66,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Practical operations leaders are needed in every town; starting as an employee first lowers financial risk before launching your own venture."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "supply_chain_analyst",
+      "digital_marketing_coordinator",
+      "agribusiness_manager"
+    ],
+    "free_resource_ids": [
+      "res_small_biz_sba",
+      "res_accounting_coach",
+      "res_hubspot_marketing"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete the free SBA/Wadhwani intro module on unit costs and break-even math.",
+        "Shadow a local shop owner or shift lead for one day to observe daily workflows."
+      ],
+      "months_6": [
+        "Take an entry operations or shift-lead role and track real metrics (inventory waste, customer wait times).",
+        "Learn basic bookkeeping so you understand cash flow."
+      ],
+      "years_2": [
+        "Manage a full branch/store or launch a small low-capital local service with validated customer demand.",
+        "Avoid high-interest debt when testing new business ideas."
+      ]
+    },
+    "starter_project": "Write a 1-page realistic cost-and-pricing plan for a simple local service (like tutoring, repair, or tiffin delivery).",
+    "entry_certification": "SBA / Wadhwani Entrepreneurship & Operations Foundations (Free)",
+    "source": "U.S. SBA & ILO Youth Entrepreneurship Guide",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "precision_agriculture_tech",
+    "title": "Precision Agriculture Technician",
+    "sector": "Agriculture & Food",
+    "description": "Uses soil sensors, weather data, drip irrigation, and mapping tools to help farms grow more food with less water and waste.",
+    "day_in_the_life": "You calibrate field sensors, inspect irrigation pumps, map crop health from satellite/drone imagery, and advise growers clearly.",
+    "riasec": {
+      "R": 90,
+      "I": 78,
+      "A": 22,
+      "S": 48,
+      "E": 45,
+      "C": 68
+    },
+    "required_skills": [
+      {
+        "name": "Soil & Crop Science",
+        "level": "basic",
+        "resource_ids": [
+          "res_fao_agri"
+        ]
+      },
+      {
+        "name": "Precision Sensors",
+        "level": "basic",
+        "resource_ids": [
+          "res_fao_agri"
+        ]
+      },
+      {
+        "name": "GIS & Mapping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_gis_qgis"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Agricultural Polytechnic Diploma / FAO Free Modules",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–2 years",
+        "summary": "Public agricultural universities and Krishi Vigyan Kendras (KVKs) / Extension offices provide low-cost hands-on training.",
+        "exams": {
+          "global": [
+            "Agricultural diploma admission"
+          ],
+          "in": [
+            "State Agriculture Diploma / Skill India ASCI"
+          ],
+          "us": [
+            "Community College Ag-Tech Certificate"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "FAO elearning Academy (100% free)"
+          ],
+          "in": [
+            "ICAR / State Agri Scholarships"
+          ],
+          "us": [
+            "USDA / Pell Grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$16,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 220000,
+        "entry_max": 480000,
+        "period": "year",
+        "formatted": "₹2.2L – ₹4.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 60000,
+        "period": "year",
+        "formatted": "$42,000 – $60,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Water scarcity and climate-smart farming are driving rapid adoption of agritech tools."
+    },
+    "fastest_entry_months": 10,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "agribusiness_manager",
+      "environmental_field_technician",
+      "urban_planning_assistant"
+    ],
+    "free_resource_ids": [
+      "res_fao_agri",
+      "res_gis_qgis",
+      "res_skill_india_iti"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Take 2 free FAO elearning modules on soil health and climate-smart agriculture.",
+        "Learn how moisture sensors and drip lines save water."
+      ],
+      "months_6": [
+        "Enroll in a local Agri-Diploma or KVK/Extension precision-farming workshop.",
+        "Create a simple crop-moisture & rainfall log in a spreadsheet or QGIS."
+      ],
+      "years_2": [
+        "Work with an agritech firm, cooperative, or irrigation provider.",
+        "Optionally add licensed agricultural drone operation if regulated locally."
+      ]
+    },
+    "starter_project": "Build a seasonal water-budget spreadsheet comparing flood irrigation vs. drip irrigation for a local crop.",
+    "entry_certification": "FAO Digital Agriculture Certificates / Agri-Tech Diploma",
+    "source": "UN FAO & U.S. BLS OOH",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "food_safety_inspector",
+    "title": "Food Safety & Quality Inspector",
+    "sector": "Agriculture & Food",
+    "description": "Tests food processing plants, dairies, and storage facilities to ensure meals are hygienic, fresh, and safe for families.",
+    "day_in_the_life": "You check cold-storage temperatures, test sample batches for contamination, review hygiene logs, and guide workers on safe handling.",
+    "riasec": {
+      "R": 68,
+      "I": 80,
+      "A": 15,
+      "S": 48,
+      "E": 40,
+      "C": 94
+    },
+    "required_skills": [
+      {
+        "name": "Food Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_fao_agri",
+          "res_swayam_health_tech"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "basic",
+        "resource_ids": [
+          "res_fao_agri",
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Lab Procedures",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_swayam_health_tech"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Food Safety Certificate + Quality Assistant Entry",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–12 months",
+        "summary": "Dairies, grain mills, and food packagers hire trained QA assistants with HACCP / FSSAI hygiene knowledge.",
+        "exams": {
+          "global": [
+            "HACCP Level 2"
+          ],
+          "in": [
+            "FSSAI FoSTaC Supervisor (low-cost) / B.Sc Food Tech"
+          ],
+          "us": [
+            "ServSafe / HACCP Certificate"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "FAO Food Safety free courses"
+          ],
+          "in": [
+            "SWAYAM Food Technology free modules"
+          ],
+          "us": [
+            "Community college food science grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$18,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 500000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 44000,
+        "entry_max": 64000,
+        "period": "year",
+        "formatted": "$44,000 – $64,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "High",
+      "note": "Stricter export and public food-safety rules keep trained QA inspectors in steady demand."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "medical_lab_technician",
+      "environmental_field_technician",
+      "precision_agriculture_tech"
+    ],
+    "free_resource_ids": [
+      "res_fao_agri",
+      "res_swayam_health_tech",
+      "res_openwho"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Complete a free FAO Food Safety & Hygiene course.",
+        "Learn the 7 basic principles of HACCP hazard checking."
+      ],
+      "months_6": [
+        "Earn a recognized food hygiene supervisor certificate (FoSTaC / HACCP).",
+        "Apply for junior quality-control roles in local dairies, bakeries, or cold-chains."
+      ],
+      "years_2": [
+        "Advance to Lead Quality Auditor or prepare for public Food Safety Officer exams.",
+        "Deepen microbiology and packaging testing skills."
+      ]
+    },
+    "starter_project": "Write a clear 1-page hygiene & temperature inspection checklist for a school cafeteria or small dairy.",
+    "entry_certification": "FAO Food Safety / FSSAI FoSTaC / HACCP Certificate",
+    "source": "UN FAO & U.S. BLS OOH",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "agribusiness_manager",
+    "title": "Sustainable Farm & Agribusiness Manager",
+    "sector": "Agriculture & Food",
+    "description": "Combines modern farming with cooperative marketing, storage, and fair pricing so rural farms earn stable incomes.",
+    "day_in_the_life": "You plan crop calendars, track input costs vs. harvest prices, connect with farmer cooperatives or buyers, and manage post-harvest storage.",
+    "riasec": {
+      "R": 80,
+      "I": 56,
+      "A": 25,
+      "S": 60,
+      "E": 90,
+      "C": 70
+    },
+    "required_skills": [
+      {
+        "name": "Agribusiness Planning",
+        "level": "basic",
+        "resource_ids": [
+          "res_fao_agri",
+          "res_small_biz_sba"
+        ]
+      },
+      {
+        "name": "Soil & Crop Science",
+        "level": "basic",
+        "resource_ids": [
+          "res_fao_agri"
+        ]
+      },
+      {
+        "name": "Budgeting",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_accounting_coach"
+        ]
+      },
+      {
+        "name": "Vendor Communication",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_small_biz_sba"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Farmer Producer Cooperative (FPO) / Agribusiness Certificate",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–18 months",
+        "summary": "Practical path for students from farming families or rural towns to modernize value-addition, grading, and direct sales.",
+        "exams": {
+          "global": [
+            "None required"
+          ],
+          "in": [
+            "MANAGE / Agri-Clinics (ACABC) Free Govt. Training"
+          ],
+          "us": [
+            "USDA Beginning Farmer & Rancher Extension Programs"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "FAO elearning (free)"
+          ],
+          "in": [
+            "NABARD / ACABC subsidized training"
+          ],
+          "us": [
+            "USDA Beginning Farmer grants"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$16,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 550000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 45000,
+        "entry_max": 68000,
+        "period": "year",
+        "formatted": "$45,000 – $68,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Direct-to-buyer cooperatives, cold storage, and organic value-added foods create resilient rural incomes."
+    },
+    "fastest_entry_months": 8,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "precision_agriculture_tech",
+      "small_business_manager",
+      "supply_chain_analyst"
+    ],
+    "free_resource_ids": [
+      "res_fao_agri",
+      "res_small_biz_sba",
+      "res_accounting_coach"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Take an FAO agribusiness & market-linkage course.",
+        "Track weekly wholesale vs. retail prices for 3 crops grown in your district."
+      ],
+      "months_6": [
+        "Intern with a local Farmer Producer Organization (FPO), dairy co-op, or farm-supply store.",
+        "Build a crop-season cashflow spreadsheet."
+      ],
+      "years_2": [
+        "Manage cooperative procurement, grading, or value-added processing.",
+        "Use crop insurance and diversified buyers to manage weather risk."
+      ]
+    },
+    "starter_project": "Build a simple 1-acre seasonal profit-and-loss sheet comparing raw crop sale vs. cleaned/graded direct sale.",
+    "entry_certification": "FAO Agribusiness / MANAGE ACABC Certificate",
+    "source": "UN FAO & NABARD / USDA Extension Guides",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "veterinary_technician",
+    "title": "Veterinary & Livestock Technician",
+    "sector": "Agriculture & Food",
+    "description": "Assists veterinarians in caring for pets and farm animals—checking vitals, assisting vaccinations, and advising owners.",
+    "day_in_the_life": "You calm animals gently during exams, prepare lab slides, sterilize clinic tools, track vaccination records, and support rural livestock health.",
+    "riasec": {
+      "R": 84,
+      "I": 68,
+      "A": 18,
+      "S": 82,
+      "E": 28,
+      "C": 66
+    },
+    "required_skills": [
+      {
+        "name": "Animal Handling",
+        "level": "basic",
+        "resource_ids": [
+          "res_vet_basics"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "basic",
+        "resource_ids": [
+          "res_vet_basics",
+          "res_openwho"
+        ]
+      },
+      {
+        "name": "Lab Procedures",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_swayam_health_tech"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_vet_basics"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Veterinary Assistant / Livestock Diploma (VLDA / Vet Tech Associate)",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–2 years",
+        "summary": "Practical hands-on pathway into animal clinics, shelters, and rural dairy/livestock health services.",
+        "exams": {
+          "global": [
+            "Regional vet tech registration"
+          ],
+          "in": [
+            "State Veterinary Diploma (VLDA / Livestock Inspector)"
+          ],
+          "us": [
+            "VTNE Veterinary Technician National Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Coursera Edinburgh Vet Audit (free)"
+          ],
+          "in": [
+            "State Animal Husbandry Govt. College seats"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 14000,
+        "entry_max": 40000,
+        "period": "year",
+        "formatted": "$14,000 – $40,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 180000,
+        "entry_max": 380000,
+        "period": "year",
+        "formatted": "₹1.8L – ₹3.8L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 36000,
+        "entry_max": 50000,
+        "period": "year",
+        "formatted": "$36,000 – $50,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Both rural livestock cooperatives and urban pet clinics need dependable trained technicians."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "medical_lab_technician",
+      "community_health_worker",
+      "precision_agriculture_tech"
+    ],
+    "free_resource_ids": [
+      "res_vet_basics",
+      "res_openwho",
+      "res_swayam_health_tech"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Audit the free University of Edinburgh intro veterinary course.",
+        "Volunteer at a local animal shelter or observe a neighborhood vet clinic."
+      ],
+      "months_6": [
+        "Enroll in a recognized government Livestock/Vet Tech diploma or start as a clinic kennel/care assistant.",
+        "Learn safe handling and clinic hygiene protocols."
+      ],
+      "years_2": [
+        "Complete clinical hours and pass regional Vet Tech licensing (VTNE/State board).",
+        "Choose between companion-animal clinic work or dairy/livestock field care."
+      ]
+    },
+    "starter_project": "Create an easy-to-read seasonal vaccination and clean-water checklist for pets or dairy cattle.",
+    "entry_certification": "State Veterinary Diploma (VLDA) / VTNE Licensed Vet Tech",
+    "source": "U.S. BLS OOH & Veterinary Extension Programs",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "solar_pv_installer",
+    "title": "Solar Photovoltaic (PV) Installer",
+    "sector": "Green Jobs & Energy",
+    "description": "Mounts, wires, and maintains rooftop and community solar panels so homes, farms, and schools run on clean sunlight.",
+    "day_in_the_life": "You inspect roof angles and shade, bolt mounting frames securely, wire inverters safely with electricians, and test daily power output.",
+    "riasec": {
+      "R": 96,
+      "I": 58,
+      "A": 22,
+      "S": 42,
+      "E": 48,
+      "C": 60
+    },
+    "required_skills": [
+      {
+        "name": "Solar Installation",
+        "level": "basic",
+        "resource_ids": [
+          "res_solar_irec",
+          "res_skill_india_iti"
+        ]
+      },
+      {
+        "name": "Electrical Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_solar_irec"
+        ]
+      },
+      {
+        "name": "Renewable Energy",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_solar_irec",
+          "res_green_energy_un"
+        ]
+      },
+      {
+        "name": "Safety Protocols",
+        "level": "advanced",
+        "resource_ids": [
+          "res_apprenticeship_gov"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Short-Term Solar Technician Certificate (Suryamitra / NABCEP Associate)",
+        "type": "vocational",
+        "cost_tier": "free",
+        "duration": "3–6 months",
+        "summary": "Fastest green-jobs entry: India's Suryamitra program is government-funded and free; US workforce boards sponsor NABCEP Associate prep.",
+        "exams": {
+          "global": [
+            "Regional solar safety certificate"
+          ],
+          "in": [
+            "NISE Suryamitra / Skill Council for Green Jobs (SCGJ)"
+          ],
+          "us": [
+            "NABCEP PV Associate Exam"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Solar Energy International Free Intro"
+          ],
+          "in": [
+            "NISE Suryamitra (free residential govt. training)"
+          ],
+          "us": [
+            "GRID Alternatives free hands-on training"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 16000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$16,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 200000,
+        "entry_max": 440000,
+        "period": "year",
+        "formatted": "₹2.0L – ₹4.4L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$42,000 – $58,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Rooftop solar subsidies and rural microgrids are creating one of the fastest-growing skilled trades globally."
+    },
+    "fastest_entry_months": 4,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "licensed_electrician",
+      "wind_turbine_technician",
+      "energy_efficiency_auditor"
+    ],
+    "free_resource_ids": [
+      "res_solar_irec",
+      "res_skill_india_iti",
+      "res_green_energy_un"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Finish the free Solar Energy International intro course and basic DC electrical safety.",
+        "Check eligibility for free government solar training (Suryamitra / GRID Alternatives)."
+      ],
+      "months_6": [
+        "Complete hands-on roof-safety and solar mounting training.",
+        "Join an accredited solar installation crew as a junior installer."
+      ],
+      "years_2": [
+        "Advance to Solar Site Supervisor, System Designer, or combine with an Electrician license.",
+        "Learn battery-storage and hybrid inverter setup."
+      ]
+    },
+    "starter_project": "Calculate how many kW of solar panels a small home would need using a sample monthly electricity bill.",
+    "entry_certification": "NISE Suryamitra (India) / NABCEP PV Associate (US)",
+    "source": "U.S. BLS OOH, IRENA & Skill Council for Green Jobs",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "wind_turbine_technician",
+    "title": "Wind Turbine Service Technician",
+    "sector": "Green Jobs & Energy",
+    "description": "Inspects, maintains, and repairs clean-energy wind turbines—combining mechanical, hydraulic, and electrical troubleshooting.",
+    "day_in_the_life": "You wear climbing safety harnesses, test turbine sensors and gearboxes, inspect blades, and log preventive maintenance outdoors.",
+    "riasec": {
+      "R": 98,
+      "I": 72,
+      "A": 15,
+      "S": 35,
+      "E": 35,
+      "C": 66
+    },
+    "required_skills": [
+      {
+        "name": "Wind Turbine Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_green_energy_un",
+          "res_apprenticeship_gov"
+        ]
+      },
+      {
+        "name": "Electrical Safety",
+        "level": "basic",
+        "resource_ids": [
+          "res_alison_trades"
+        ]
+      },
+      {
+        "name": "Preventive Maintenance",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_alison_trades",
+          "res_ev_basics"
+        ]
+      },
+      {
+        "name": "Renewable Energy",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_green_energy_un"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Wind Tech Certificate / Electrical-Mechanical Diploma + GWO Safety",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "6–18 months",
+        "summary": "Requires comfort with heights and outdoor weather, plus strong mechanical/electrical fundamentals.",
+        "exams": {
+          "global": [
+            "GWO Basic Safety Training (BST)"
+          ],
+          "in": [
+            "ITI Electrical/Fitter + NIWE Wind Farm Technician"
+          ],
+          "us": [
+            "Community College Wind Tech Certificate + GWO"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "Employer-sponsored GWO training"
+          ],
+          "in": [
+            "NIWE / Skill Council for Green Jobs"
+          ],
+          "us": [
+            "Pell Grant / Clean-energy apprenticeships"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 22000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$22,000 – $58,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 260000,
+        "entry_max": 540000,
+        "period": "year",
+        "formatted": "₹2.6L – ₹5.4L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 52000,
+        "entry_max": 68000,
+        "period": "year",
+        "formatted": "$52,000 – $68,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "One of the fastest-growing technical careers worldwide; requires travel and comfort working at heights."
+    },
+    "fastest_entry_months": 9,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "solar_pv_installer",
+      "licensed_electrician",
+      "welding_specialist"
+    ],
+    "free_resource_ids": [
+      "res_green_energy_un",
+      "res_alison_trades",
+      "res_apprenticeship_gov"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Audit free wind-energy basics and review electrical & mechanical safety rules.",
+        "Honestly check if working outdoors at heights and traveling fits your lifestyle."
+      ],
+      "months_6": [
+        "Complete an ITI Electrical/Mechanical trade or community-college Wind Tech program.",
+        "Apply for trainee roles that sponsor GWO climbing safety certification."
+      ],
+      "years_2": [
+        "Gain hands-on troubleshooting experience across wind farms.",
+        "Advance to Lead Site Technician or Renewable Grid Specialist."
+      ]
+    },
+    "starter_project": "Diagram the main parts inside a wind turbine nacelle (rotor, gearbox, generator, brake) and list 4 safety checks.",
+    "entry_certification": "GWO Basic Safety Training + Electrical/Wind Tech Diploma",
+    "source": "U.S. BLS OOH & IRENA Clean Energy Jobs",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "environmental_field_technician",
+    "title": "Environmental Field Technician",
+    "sector": "Green Jobs & Energy",
+    "description": "Monitors local water quality, air pollution, soil health, and waste recycling to protect communities and ecosystems.",
+    "day_in_the_life": "You collect water or soil samples outdoors, log sensor readings carefully, map test sites, and help labs verify environmental safety.",
+    "riasec": {
+      "R": 82,
+      "I": 86,
+      "A": 22,
+      "S": 56,
+      "E": 30,
+      "C": 76
+    },
+    "required_skills": [
+      {
+        "name": "Environmental Sampling",
+        "level": "basic",
+        "resource_ids": [
+          "res_green_energy_un",
+          "res_fao_agri"
+        ]
+      },
+      {
+        "name": "GIS & Mapping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_gis_qgis"
+        ]
+      },
+      {
+        "name": "Lab Procedures",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_swayam_health_tech"
+        ]
+      },
+      {
+        "name": "Record Keeping",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Environmental Science Diploma / Associate Degree + Free Climate Certs",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "1–2 years",
+        "summary": "Entry path into municipal water boards, environmental testing labs, and conservation NGOs.",
+        "exams": {
+          "global": [
+            "Regional lab/field safety check"
+          ],
+          "in": [
+            "State Polytechnic / B.Sc Environmental Science / SWAYAM"
+          ],
+          "us": [
+            "Community College Environmental Tech Associate + OSHA HAZWOPER"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "UN CC:e-Learn (100% free)"
+          ],
+          "in": [
+            "NSP Scholarships"
+          ],
+          "us": [
+            "Pell Grant"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 18000,
+        "entry_max": 48000,
+        "period": "year",
+        "formatted": "$18,000 – $48,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 240000,
+        "entry_max": 500000,
+        "period": "year",
+        "formatted": "₹2.4L – ₹5.0L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 42000,
+        "entry_max": 58000,
+        "period": "year",
+        "formatted": "$42,000 – $58,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Steady growth",
+      "demand": "Medium",
+      "note": "Clean-water testing, air-quality monitoring, and factory compliance support steady hiring."
+    },
+    "fastest_entry_months": 12,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "urban_planning_assistant",
+      "food_safety_inspector",
+      "precision_agriculture_tech"
+    ],
+    "free_resource_ids": [
+      "res_green_energy_un",
+      "res_gis_qgis",
+      "res_fao_agri"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Earn a free UN CC:e-Learn certificate on climate and water systems.",
+        "Learn basic water-quality indicators (pH, turbidity, dissolved oxygen)."
+      ],
+      "months_6": [
+        "Volunteer with a local river/lake clean-up or citizen-science water monitoring group.",
+        "Pair field sampling with free QGIS mapping skills."
+      ],
+      "years_2": [
+        "Join a water-testing lab, municipal board, or environmental consultancy.",
+        "Complete a diploma or bachelor's degree for scientist-level roles."
+      ]
+    },
+    "starter_project": "Track local daily air-quality index (AQI) or rainfall for 14 days in a spreadsheet and plot a clean summary chart.",
+    "entry_certification": "UN CC:e-Learn Certificates / Environmental Tech Diploma",
+    "source": "U.S. BLS OOH & UN CC:e-Learn",
+    "last_verified": "2026-10-15"
+  },
+  {
+    "id": "energy_efficiency_auditor",
+    "title": "Energy Efficiency Auditor",
+    "sector": "Green Jobs & Energy",
+    "description": "Inspects homes, schools, and small factories to find wasted electricity and cooling, helping lower utility bills and emissions.",
+    "day_in_the_life": "You review power bills, check insulation, lighting, and AC efficiency, run simple payback math, and present clear upgrade options.",
+    "riasec": {
+      "R": 74,
+      "I": 84,
+      "A": 25,
+      "S": 54,
+      "E": 56,
+      "C": 82
+    },
+    "required_skills": [
+      {
+        "name": "Energy Auditing",
+        "level": "basic",
+        "resource_ids": [
+          "res_solar_irec",
+          "res_green_energy_un"
+        ]
+      },
+      {
+        "name": "Spreadsheets",
+        "level": "basic",
+        "resource_ids": [
+          "res_kaggle_data"
+        ]
+      },
+      {
+        "name": "Renewable Energy",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_solar_irec",
+          "res_green_energy_un"
+        ]
+      },
+      {
+        "name": "HVAC Basics",
+        "level": "intermediate",
+        "resource_ids": [
+          "res_alison_trades"
+        ]
+      }
+    ],
+    "education_routes": [
+      {
+        "title": "Building Energy Audit Certificate + Utility / Green Contractor Entry",
+        "type": "vocational",
+        "cost_tier": "low",
+        "duration": "4–12 months",
+        "summary": "Great fit for analytical students who also like visiting real buildings rather than sitting at a screen all day.",
+        "exams": {
+          "global": [
+            "Regional energy auditor credential"
+          ],
+          "in": [
+            "BEE Energy Auditor (advanced) / SCGJ Energy Efficiency Assistant"
+          ],
+          "us": [
+            "BPI Building Science Principles / Energy Auditor"
+          ]
+        },
+        "scholarships": {
+          "global": [
+            "UN CC:e-Learn & Solar Energy International free intros"
+          ],
+          "in": [
+            "SWAYAM Energy Conservation free courses"
+          ],
+          "us": [
+            "State clean-energy workforce rebates"
+          ]
+        }
+      }
+    ],
+    "salary_by_region": {
+      "global": {
+        "currency": "USD",
+        "entry_min": 20000,
+        "entry_max": 52000,
+        "period": "year",
+        "formatted": "$20,000 – $52,000 / yr"
+      },
+      "in": {
+        "currency": "INR",
+        "entry_min": 260000,
+        "entry_max": 550000,
+        "period": "year",
+        "formatted": "₹2.6L – ₹5.5L / yr"
+      },
+      "us": {
+        "currency": "USD",
+        "entry_min": 46000,
+        "entry_max": 68000,
+        "period": "year",
+        "formatted": "$46,000 – $68,000 / yr"
+      }
+    },
+    "growth_outlook": {
+      "label": "Fast growing",
+      "demand": "High",
+      "note": "Rising electricity prices and government green-building rebates fuel strong demand for energy audits."
+    },
+    "fastest_entry_months": 6,
+    "has_free_or_low_cost_route": true,
+    "related_careers": [
+      "solar_pv_installer",
+      "hvac_technician",
+      "environmental_field_technician"
+    ],
+    "free_resource_ids": [
+      "res_solar_irec",
+      "res_green_energy_un",
+      "res_alison_trades"
+    ],
+    "roadmap_milestones": {
+      "days_30": [
+        "Learn how kilowatt-hours (kWh) and appliance wattage add up on a real utility bill.",
+        "Take a free UN CC:e-Learn or SWAYAM energy-efficiency intro module."
+      ],
+      "months_6": [
+        "Perform a mock energy-saving audit of your home or school (LEDs, fan efficiency, air leaks) with payback math.",
+        "Apply to solar, HVAC, or utility efficiency contractors."
+      ],
+      "years_2": [
+        "Earn BPI or BEE-aligned energy certification.",
+        "Lead commercial building retrofits or solar-plus-efficiency projects."
+      ]
+    },
+    "starter_project": "Audit 10 appliances in a home or classroom, calculate monthly kWh usage, and estimate yearly savings from 3 low-cost upgrades.",
+    "entry_certification": "BPI Building Science Principles (US) / SCGJ Energy Efficiency Assistant (India)",
+    "source": "U.S. DOE Clean Energy Careers & BEE India",
+    "last_verified": "2026-10-15"
+  }
+]

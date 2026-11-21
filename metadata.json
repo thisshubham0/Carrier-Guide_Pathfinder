@@ -1,0 +1,6 @@
+{
+  "name": "PathFinder",
+  "description": "Free, mobile-first digital career guidance platform giving students aged 14-25 a personalized, verifiable career roadmap in under 15 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
